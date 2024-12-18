@@ -1,17 +1,17 @@
 [
     {
         grupo: 'menu',
-        image: './tv/tv.jpg',
+        image: './img/tv.jpg',
         local: 'tv',
     },
     {
         grupo: 'menu',
-        image: './opciones/opciones.jpg',
+        image: './img/opciones.jpg',
         local: 'opciones',
     },
     {
         grupo: 'menu',
-        image: './cine/cine.jpg',
+        image: './img/cine.jpg',
         local: 'cine',
     }
 ]
