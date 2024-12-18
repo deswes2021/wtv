@@ -2,11 +2,11 @@
   {
     grupo: 'opciones',
     image: '/img/opciones/activar.jpg',
-    local: 'nacional'
+    local: 'https://teleclub.xyz/activar'
   },
   {
     grupo: 'opciones',
     image: '/img/opciones/actualizar.jpg',
-    local: 'nacional'
+    local: 'actualizar'
   }
 ]
