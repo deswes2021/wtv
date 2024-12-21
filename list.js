@@ -1,42 +1,47 @@
 [
   {
     gpo: "menu",
-    img: "",
+    img: "nacional.jpg",
     loc: "nacional"
   },
   {
     gpo: "menu",
-    img: "",
+    img: "intanfil.jpg",
     loc: "intanfil"
   },
   {
     gpo: "menu",
-    img: "",
+    img: "variado.jpg",
     loc: "variado"
   },
   {
     gpo: "menu",
-    img: "",
+    img: "premium.jpg",
     loc: "premium"
   },
   {
     gpo: "menu",
-    img: "",
+    img: "opciones.jpg",
     loc: "opciones"
   },
   {
     gpo: "menu",
-    img: "",
+    img: "deportes.jpg",
     loc: "deportes"
   },
   {
     gpo: "menu",
-    img: "",
+    img: "247.jpg",
     loc: "247"
   },
   {
     gpo: "menu",
-    img: "",
-    loc: "cine"
+    img: "peliculas.jpg",
+    loc: "peliculas"
+  },
+  {
+    gpo: "menu",
+    img: "youtube.jpg",
+    loc: "youtube"
   }
 ]
