@@ -6,8 +6,8 @@
   },
   {
     gpo: "menu",
-    img: "intantil.jpg",
-    loc: "intantil"
+    img: "infantil.jpg",
+    loc: "infantil"
   },
   {
     gpo: "menu",
