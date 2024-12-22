@@ -6,8 +6,8 @@
   },
   {
     gpo: "menu",
-    img: "intanfil.jpg",
-    loc: "intanfil"
+    img: "intantil.jpg",
+    loc: "intantil"
   },
   {
     gpo: "menu",
@@ -36,8 +36,8 @@
   },
   {
     gpo: "menu",
-    img: "pelicula.jpg",
-    loc: "pelicula"
+    img: "cinema.jpg",
+    loc: "cinema"
   },
   {
     gpo: "menu",
