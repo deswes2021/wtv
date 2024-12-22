@@ -21,13 +21,13 @@
   },
   {
     gpo: "menu",
-    img: "opciones.jpg",
-    loc: "opciones"
+    img: "opcion.jpg",
+    loc: "opcion"
   },
   {
     gpo: "menu",
-    img: "deportes.jpg",
-    loc: "deportes"
+    img: "deporte.jpg",
+    loc: "deporte"
   },
   {
     gpo: "menu",
@@ -36,8 +36,8 @@
   },
   {
     gpo: "menu",
-    img: "peliculas.jpg",
-    loc: "peliculas"
+    img: "pelicula.jpg",
+    loc: "pelicula"
   },
   {
     gpo: "menu",
