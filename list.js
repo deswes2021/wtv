@@ -119,7 +119,7 @@
   },
   {
     gpo: "nacional",
-    img: "/nacional/cana21.jpg",
+    img: "/nacional/canal21.jpg",
     loc: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
   },
 ]
