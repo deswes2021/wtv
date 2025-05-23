@@ -121,6 +121,12 @@
   tipo:"Menu",
   logo:"https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBMusical.jpg",
   url:"YTBMusical"
+},      
+{
+  nombre: "Series",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/wtv/main/img/Series.jpg",
+  url:"Series"
 },
 
 /*----------------------------------------------------------------------------------*/
