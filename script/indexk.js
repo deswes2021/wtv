@@ -103,6 +103,12 @@
   tipo:"Menu",
   logo:"https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFamily.jpg",
   url:"YTBFamily"
+},    
+{
+  nombre: "YTBComedy",
+  tipo:"Menu",
+  logo:"https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBComedy.jpg",
+  url:"YTBComedy"
 },      
 {
   nombre: "YTBDrama",
