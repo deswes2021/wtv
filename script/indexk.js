@@ -230,8 +230,7 @@
   tipo:"Nacionales",
   logo:"https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal21.jpg",
   url:"https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
-}
-
+},
   
 /*----------------------------------------------------------------------------------*/
 /*-YTBOeste-*/
