@@ -162,7 +162,7 @@
     { inf: "tntseries_1", logo: "https://img.teleclub.xyz/tntseries.png", tipo: "Cinemas", nombre: "TNT Series", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/tntseries/master.m3u8" },
     { inf: "tntseries_2", logo: "https://img.teleclub.xyz/tntseries.png", tipo: "Cinemas", nombre: "TNT Series", url: "http://tv.teleclub.xyz/stream/server_2/entretenimiento/tntseries/master.m3u8" },
     { inf: "universalcinema_3", logo: "https://img.teleclub.xyz/universalcinema.png", tipo: "Cinemas", nombre: "Universal Cinema", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/universalcinema/master.m3u8" },
-    { inf: "universalcinema_1", logo: "https://img.teleclub.xyz/universal_cinema.png", tipo: "Cinemas", nombre: "Universal Cinema", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8" },
+    { inf: "universalcinema_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/universal_cinema.jpg", tipo: "Cinemas", nombre: "Universal Cinema", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8" },
     { inf: "universaltv_3", logo: "https://img.teleclub.xyz/universal.png", tipo: "Cinemas", nombre: "Universal TV", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8" },
     { inf: "universaltv_1", logo: "https://img.teleclub.xyz/universal.png", tipo: "Cinemas", nombre: "Universal TV", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8" },
     { inf: "usatv_1", logo: "https://img.teleclub.xyz/usatv.png", tipo: "Cinemas", nombre: "USA TV", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/usatv/master.m3u8" },
