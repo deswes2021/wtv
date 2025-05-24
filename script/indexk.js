@@ -7,7 +7,7 @@
     { nombre: "Nacionales", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg", url: "Nacionales" },
     { nombre: "Infantiles", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg", url: "Infantiles" },
     { nombre: "Cultura", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cultura.jpg", url: "Cultura" },
-    { nombre: "Mundo", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Mundo.jpg", url: "Cultura" },
+    { nombre: "Mundo", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Mundo.jpg", url: "Mundo" },
     { nombre: "Cinemas", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cinemas.jpg", url: "Cinemas" },
     { nombre: "24x7", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/24x7.jpg", url: "24x7" },
     { nombre: "Deportes", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Deportes.jpg", url: "Deportes" },
