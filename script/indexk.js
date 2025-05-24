@@ -1,3 +1,4 @@
+
 [
     /*----------------------------------------------------------------------------------*/
     /*-MENUS-*/
@@ -12,6 +13,7 @@
     { nombre: "24x7", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/24x7.jpg", url: "24x7" },
     { nombre: "Deportes", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Deportes.jpg", url: "Deportes" },
     { nombre: "Musica", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Musica.jpg", url: "Musica" },
+    { nombre: "Religion", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Religion.jpg", url: "Religion" },
     { nombre: "YTBOeste", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBOeste.jpg", url: "YTBOeste" },
     { nombre: "YTBWars", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBWars.jpg", url: "YTBWars" },
     { nombre: "YTBDocumental", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBDocumental.jpg", url: "YTBDocumental" },
@@ -43,12 +45,13 @@
     { nombre: "Canal 7", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal7.jpg", url: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8" },
     { nombre: "Canal 8", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal8.jpg", url: "http://201.247.102.189/tmp_hls/stream/index.m3u8" },
     { nombre: "Canal 9", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal9.jpg", url: "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8" },
-    { nombre: "Canal 10", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal10.jpg", url: "" },
+    { nombre: "Canal 10", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal10.jpg", url: "https://5ca3e84a76d30.streamlock.net:443/tves/videotves/playlist.m3u8" },
     { nombre: "Canal 11", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal11.jpg", url: "https://stream.giostreaming.net:19360/canal11/canal11.m3u8" },
     { nombre: "Canal 12", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal12.jpg", url: "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8" },
     { nombre: "Canal 19", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal19.jpg", url: "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8" },
     { nombre: "Canal 21", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal21.jpg", url: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8" },
-
+    { nombre: "Canal 22", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tvmesv.jpg", url: "http://201.247.102.189/tmp_hls/stream/index.m3u8" },
+        
     /*----------------------------------------------------------------------------------*/
     /*-TELECLUB-*/
     /*----------------------------------------------------------------------------------*/
@@ -173,6 +176,85 @@
     { inf: "dragonballsuper_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/dragonballsuper.jpg", tipo: "24x7", nombre: "Dragon Ball Super", url: "http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8" },
     { inf: "lossimpsons_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/lossimpsons.jpg", tipo: "24x7", nombre: "Los Simpsons", url: "http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8" },
     
+    /*----------------------------------------------------------------------------------*/
+    /*----------------------------------------------------------------------------------*/
+    /*----------------------------------------------------------------------------------*/
+    /*----------------------------------------------------------------------------------*/
+    /*----------------------------------------------------------------------------------*/
+    
+    /*----------------------------------------------------------------------------------*/
+    /*-INFANTILES PERSONAL-*/
+    /*----------------------------------------------------------------------------------*/
+    { nombre: "Locomotion Tv", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/locomotiontv.jpg", url: "http://51.222.85.85:81/hls/loco/index.m3u8" },
+    { nombre: "Energeek Fan", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/energeekfan.jpg", url: "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR" },
+    { nombre: "Energeek", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/energeek.jpg", url: "https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8" },
+    { nombre: "Ipe Kid", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ipekid.jpg", url: "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8" },
+    { nombre: "Dios Tv Kid", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/diostevekids.jpg", url: "https://s.emisoras.tv:8081/diostevekids/index.m3u8" },
+    { nombre: "Magic Kid", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/magickid.jpg", url: "https://magicstream.ddns.net/magicstream/stream.m3u8" },
+    
+    /*----------------------------------------------------------------------------------*/
+    /*-CINEMAS PERSONAL-*/
+    /*----------------------------------------------------------------------------------*/
+    { nombre: "Planeta Tv", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/planetatv.jpg", url: "https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL" },
+    { nombre: "Extrema Tv", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/extrematv.jpg", url: "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8" },
+    { nombre: "Extrema Action", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/extremaaction.jpg", url: "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8" },
+    { nombre: "Extrema Classic", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/extremaclasic.jpg", url: "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8" },
+    { nombre: "Peli Mex", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/pelimex.jpg", url: "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8" },
+    { nombre: "Runtime Movie", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimemovie.jpg", url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649" },
+    { nombre: "Cine Friki", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinefriki.jpg", url: "https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8" },
+    { nombre: "Gringo Tv", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/gringotv.jpg", url: "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8" },
+    { nombre: "Runtime Accion", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimeaccion.jpg", url: "https://stream.ads.ottera.tv/cl/250524d0p13jp9qljpoi8hmt6g/854x480_1355200_2_f.m3u8?i=728_6125" },
+    { nombre: "Runtime Series", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimeseries.jpg", url: "https://stream.ads.ottera.tv/cl/250524d0p15ao9ght782d14hm0/854x480_1355200_2_f.m3u8?i=728_2152" },
+    { nombre: "Runtime Clasic", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimeclasic.jpg", url: "https://stream.ads.ottera.tv/cl/250524d0p16869us0pbmbsqdj0/854x480_1355200_2_f.m3u8?i=728_3053" },
+    { nombre: "Rruntime Comedia", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimecomedia.jpg", url: "https://stream.ads.ottera.tv/cl/250524d0p1bn1ugvi6ap6tefu0/854x480_1355200_2_f.m3u8?i=1164_6131" },
+    { nombre: "Cine Romance", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/romanceesp.jpg", url: "https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/cb553d177b6c648b9ad43e60d8ef42a4d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c09e0a957f378bbdbe306f2c180680585ee2be5da5edf55f43d16aa3e0141a882c4db4d45fc8d54abb9d865399429b7ea4179cc3a3da864187849601046688426188adc7f8fa1ba0ff1fddff96290a9d7d3e471a5af4d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe43e28a11b3c6932293acb59f714035b2c55f6e35e2a2c86a408f52cf04c89193a1577989f7066c46c468d636247894f88b2785cd55a5b72f93b56d122a8af117d2f5d7f284654b533b2c81e78d622abe8c2029342617d1bb60de3bd47ba981362d637e45a18c54c089cb64fd032589ad51ce1a17b5dac4d6915e7b82571254ec6fce484542f8743d2cab7da2da0b6587705ede7525ad0c7cc063eca820f090dee72d32a1919211a821bce34a9add2a9d40101542bffb275a056b78d3e56944705acb57ebdecfae265a55a2a783ae8e0378343811531e82adb223ccc0937f6f63ab3911697a1418811796388f722e2e1a894f83e2590ec66c470ae9a838515f16e6ebb99388dbcf04f83fe4c6f33d202c4a21da17003565c7b99d539e69132d623c606e9c8415a63c966d6361d35f8b47cf005d17f401549d/183/768x432_1200000/index.m3u8" },
+    { nombre: "Cine Sureño", tipo: "Cinemas", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinesureño.jpg", url: "https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/cb553d177b6c648b9ad43e60d8ef42a4d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c09e0a957f378bbdbe306f2c180680585ee2be5da5edf55e4cde6bf5b9494e882c4db3825fc8d54abb9d855b9d449b27a016cc96a1dad0178686c001046688426188adc7f8fa1ba0ff1fddff96290a9d7d3e471a5af4d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe43e28a11b3c6932293acb59f714035b2c55f6e35e2a2c86a408f52cf04c89193a1577989f7066c46c468d636247894f88b2785cd55a5b72f93b56d122a8af117d2f5d7f284654b533b2c81e78d622abe8c2029342617d1bb60de3bd47ba981362d637e45a18c54c089cb64fd032589ad51ce1a17b5dac4d6915e7b82571254ec6fce484542f8743d2cab7da2da0b6587705ede7525ad0c7cc063eca820f090dee72d32a1919211a821bce34a9add2a9d40101542bffb275a056b78d3e56944705acb57ebdecfae265a55a2a783ae8e0378343811531e82adb223ccc0937f6f63ab3911697a1418811796388f722e2e1a894f83e2590ec66c470ae9a838515f16e6ebb99388dbcf04f83fe4c6f33d202c4a21da17003565c7b99d539f611f661bbde18aaeeb1c614341bd22a4047ef8dfc743f487c2bd02/94/848x480_1985360/index.m3u8" },
+
+    /*----------------------------------------------------------------------------------*/
+    /*-MUNDO PERSONAL-*/
+    /*----------------------------------------------------------------------------------*/
+    { nombre: "Latina Clasic", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/latinaclasic.jpg", url: "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8" },
+    { nombre: "Ciudad Magazine", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ciudadmagazine.jpg", url: "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8" },
+    { nombre: "ClasicV", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/clasicv.jpg", url: "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8" },
+    { nombre: "13 Reality", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/13reality.jpg", url: "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8" },
+    { nombre: "13 Series", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/13series.jpg", url: "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8" },
+    { nombre: "13 Festival", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/13festival.jpg", url: "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8" },
+    { nombre: "13 Max", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/13max.jpg", url: "http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8" },
+    { nombre: "Ciudadela Tv", tipo: "Mundo", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ciudadelatv.jpg", url: "https://cp.panelchs.com:1936/8096/8096/playlist.m3u8" },
+
+    /*----------------------------------------------------------------------------------*/
+    /*-RELIGION PERSONAL-*/
+    /*----------------------------------------------------------------------------------*/
+    { nombre: "A&R", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ayr.jpg", url: "http://51.222.9.192:3589/stream/play.m3u8" },
+    { nombre: "Avivamiento Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/avivamientotv.jpg", url: "https://ssh101.bozztv.com/ssh101/avivamientotv/playlist.m3u8" },
+    { nombre: "ABN Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/abntv.jpg", url: "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8" },
+    { nombre: "Jesus Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/jesus98.jpg", url: "https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8" },
+    { nombre: "Cristo Vision", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cristovision.jpg", url: "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8" },
+    { nombre: "CTNI Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ctnitv.jpg", url: "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8" },
+    { nombre: "Dios Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/diostv.jpg", url: "https://s.emisoras.tv:8081/diostevetv/index.m3u8" },
+    { nombre: "EWTN Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ewtntv.jpg", url: "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8" },
+    { nombre: "Hosanna Tv", tipo: "Religion", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hosannatv.jpg", url: "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8" },
+
+    /*----------------------------------------------------------------------------------*/
+    /*-DEPORTES PERSONAL-*/
+    /*----------------------------------------------------------------------------------*/
+    { nombre: "Tigo Sport G", tipo: "Deportes", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tigosportguate.jpg", url: "https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8" },
+    { nombre: "CHV Sport", tipo: "Deportes", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/chvsport.jpg", url: "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL" },
+    
+    /*----------------------------------------------------------------------------------*/
+    /*-MUSICA PERSONAL-*/
+    /*----------------------------------------------------------------------------------*/
+    { nombre: 'Ctv internacional', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/ctvinternacional.png', url: 'https://mediacp.us:8081/ctvhn/index.m3u8' },
+    { nombre: 'VM Latino', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/vmlatino.png', url: 'https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8' },
+    { nombre: 'Mundo de la Musica TV', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/mundodelamusicatv.png', url: 'https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL' },
+    { nombre: 'Recuerdos Retro Radio TV', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/recuerdosretroradiotv.png', url: 'https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL' },
+    { nombre: 'Retro Plus TV', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/retroplustv.png', url: 'https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL' },
+    { nombre: 'Retro Plus TV Señal 2', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/retroplustvseñal2.png', url: 'https://ssh101.bozztv.com/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL' },
+    { nombre: 'Ruidos TV', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/ruidostv.png', url: 'https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL' },
+    { nombre: 'Urban TV', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/urbantv.png', url: 'https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL' },
+    { nombre: 'Cadena Elite | ES', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/cadenaelite.png', url: 'https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL' },
+    { nombre: 'Canal VM Latino | CR', tipo: 'Musica', logo: 'https://raw.githubusercontent.com/deswes2021/wtv/main/img/canalvmlatino.png', url: 'https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL' },
+
     /*----------------------------------------------------------------------------------*/
     /*-YTBOeste-*/
     /*----------------------------------------------------------------------------------*/
