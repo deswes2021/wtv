@@ -354,21 +354,22 @@
     /*----------------------------------------------------------------------------------*/
     /*-YTBWars-*/
     /*----------------------------------------------------------------------------------*/
-    { "nombre": "El Final de la 2° Guerra Mundial", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/NNrC3TlKuCc/hqdefault.jpg", "url": "NNrC3TlKuCc.ytb" },
-    { "nombre": "La Muerte del Mayor Ejército Alemán", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/MMbXPuksW-g/hqdefault.jpg", "url": "MMbXPuksW-g.ytb" },
-    { "nombre": "La ejecución Karl H Frank", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/MXhVgxe0Iks/hqdefault.jpg", "url": "MXhVgxe0Iks.ytb" },
-    { "nombre": "Malvinas", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/JEofjadnnyY/hqdefault.jpg", "url": "JEofjadnnyY.ytb" },
-    { "nombre": "June 6, 1944 – The Light of Dawn | History - D-Day - World War II Documentary", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/0UJYYkK4d8s/hqdefault.jpg", "url": "0UJYYkK4d8s.ytb" },
-    { "nombre": "La guerra del Golfo Pérsico I", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/F3juZQ6cFWs/hqdefault.jpg", "url": "F3juZQ6cFWs.ytb" },
-    { "nombre": "Lugares de la Segunda Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/TLm1ydeU0Mw/hqdefault.jpg", "url": "TLm1ydeU0Mw.ytb" },
-    { "nombre": "El Día D-alemana", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/pLUOkuOY1pU/hqdefault.jpg", "url": "pLUOkuOY1pU.ytb" },
-    { "nombre": "Alemania después de Hitler", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/mICSORoM0e4/hqdefault.jpg", "url": "mICSORoM0e4.ytb" },
-    { "nombre": "Los Hallazgos-Segunda Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/gwp1ixdc4Q8/hqdefault.jpg", "url": "gwp1ixdc4Q8.ytb" },
-    { "nombre": "Guerra Mundial 1914-1918", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/p9q8jkZd4vI/hqdefault.jpg", "url": "p9q8jkZd4vI.ytb" },
-    { "nombre": "Tercera guerra mundial", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/O_rytU26jYU/hqdefault.jpg", "url": "O_rytU26jYU.ytb" },
-    { "nombre": "Tercera Guerra Mundial", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/QocOZkXGIMc/hqdefault.jpg", "url": "QocOZkXGIMc.ytb" },
-    { "nombre": "Alemania: Conmemora Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/Uvn84GUct78/hqdefault.jpg", "url": "Uvn84GUct78.ytb" },
-    { "nombre": "Guerra: la marabunta", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/NJwZ7j5qB3Y/hqdefault.jpg", "url": "NJwZ7j5qB3Y.ytb" },
-    { "nombre": "Cómo Terminó la 1° Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/pREjzJJ08DY/hqdefault.jpg", "url": "pREjzJJ08DY.ytb" },
-    { "nombre": "La Primera Guerra para niños", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/MPBRjw7UZYQ/hqdefault.jpg", "url": "MPBRjw7UZYQ.ytb" }
+    { nombre: "El Final de la 2° Guerra Mundial", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/NNrC3TlKuCc/hqdefault.jpg", url: "NNrC3TlKuCc.ytb" },
+    { nombre: "La Muerte del Mayor Ejército Alemán", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/MMbXPuksW-g/hqdefault.jpg", url: "MMbXPuksW-g.ytb" },
+    { nombre: "La ejecución Karl H Frank", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/MXhVgxe0Iks/hqdefault.jpg", url: "MXhVgxe0Iks.ytb" },
+    { nombre: "Malvinas", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/JEofjadnnyY/hqdefault.jpg", url: "JEofjadnnyY.ytb" },
+    { nombre: "June 6, 1944 – The Light of Dawn | History - D-Day - World War II Documentary", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/0UJYYkK4d8s/hqdefault.jpg", url: "0UJYYkK4d8s.ytb" },
+    { nombre: "La guerra del Golfo Pérsico I", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/F3juZQ6cFWs/hqdefault.jpg", url: "F3juZQ6cFWs.ytb" },
+    { nombre: "Lugares de la Segunda Guerra", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/TLm1ydeU0Mw/hqdefault.jpg", url: "TLm1ydeU0Mw.ytb" },
+    { nombre: "El Día D-alemana", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/pLUOkuOY1pU/hqdefault.jpg", url: "pLUOkuOY1pU.ytb" },
+    { nombre: "Alemania después de Hitler", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/mICSORoM0e4/hqdefault.jpg", url: "mICSORoM0e4.ytb" },
+    { nombre: "Los Hallazgos-Segunda Guerra", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/gwp1ixdc4Q8/hqdefault.jpg", url: "gwp1ixdc4Q8.ytb" },
+    { nombre: "Guerra Mundial 1914-1918", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/p9q8jkZd4vI/hqdefault.jpg", url: "p9q8jkZd4vI.ytb" },
+    { nombre: "Tercera guerra mundial", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/O_rytU26jYU/hqdefault.jpg", url: "O_rytU26jYU.ytb" },
+    { nombre: "Tercera Guerra Mundial", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/QocOZkXGIMc/hqdefault.jpg", url: "QocOZkXGIMc.ytb" },
+    { nombre: "Alemania: Conmemora Guerra", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/Uvn84GUct78/hqdefault.jpg", url: "Uvn84GUct78.ytb" },
+    { nombre: "Guerra: la marabunta", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/NJwZ7j5qB3Y/hqdefault.jpg", url: "NJwZ7j5qB3Y.ytb" },
+    { nombre: "Cómo Terminó la 1° Guerra", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/pREjzJJ08DY/hqdefault.jpg", url: "pREjzJJ08DY.ytb" },
+    { nombre: "La Primera Guerra para niños", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/MPBRjw7UZYQ/hqdefault.jpg", url: "MPBRjw7UZYQ.ytb" }
+    
 ]
