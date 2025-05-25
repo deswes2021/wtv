@@ -51,7 +51,7 @@
     { nombre: "Canal 19", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal19.jpg", url: "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8" },
     { nombre: "Canal 21", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal21.jpg", url: "https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8" },
     { nombre: "Canal 22", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tvmesv.jpg", url: "http://201.247.102.189/tmp_hls/stream/index.m3u8" },
-        
+
     /*----------------------------------------------------------------------------------*/
     /*-TELECLUB-*/
     /*----------------------------------------------------------------------------------*/
@@ -149,7 +149,7 @@
     { inf: "HBO_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbo.jpg", tipo: "Cinemas", nombre: "HBO", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8" },
     { inf: "hbo2_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbo2.jpg", tipo: "Cinemas", nombre: "HBO 2", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8" },
     { inf: "hbo_family_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbofamily.jpg", tipo: "Cinemas", nombre: "HBO Family", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8" },
-    { inf: "hbosignature_3", logo:"https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbosigma.jpg", tipo: "Cinemas", nombre: "HBO Signature", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8" },
+    { inf: "hbosignature_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbosigma.jpg", tipo: "Cinemas", nombre: "HBO Signature", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8" },
     { inf: "hboxtreme_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hboxtreme.jpg", tipo: "Cinemas", nombre: "HBO Xtreme", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hboxtreme/master.m3u8" },
     { inf: "multipremier_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/multipremier.jpg", tipo: "Cinemas", nombre: "Multipremier", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/multipremier/master.m3u8" },
     { inf: "paramountnetwork_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/paramount.jpg", tipo: "Cinemas", nombre: "Paramount Network", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8" },
@@ -175,13 +175,13 @@
     { inf: "chespirito_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/chespirito.jpg", tipo: "24x7", nombre: "Chespirito", url: "http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8" },
     { inf: "dragonballsuper_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/dragonballsuper.jpg", tipo: "24x7", nombre: "Dragon Ball Super", url: "http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8" },
     { inf: "lossimpsons_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/lossimpsons.jpg", tipo: "24x7", nombre: "Los Simpsons", url: "http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8" },
-    
+
     /*----------------------------------------------------------------------------------*/
     /*----------------------------------------------------------------------------------*/
     /*----------------------------------------------------------------------------------*/
     /*----------------------------------------------------------------------------------*/
     /*----------------------------------------------------------------------------------*/
-    
+
     /*----------------------------------------------------------------------------------*/
     /*-INFANTILES PERSONAL-*/
     /*----------------------------------------------------------------------------------*/
@@ -191,7 +191,7 @@
     { nombre: "Ipe Kid", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ipekid.jpg", url: "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8" },
     { nombre: "Dios Tv Kid", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/diostevekids.jpg", url: "https://s.emisoras.tv:8081/diostevekids/index.m3u8" },
     { nombre: "Magic Kid", tipo: "Infantiles", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/magickid.jpg", url: "https://magicstream.ddns.net/magicstream/stream.m3u8" },
-    
+
     /*----------------------------------------------------------------------------------*/
     /*-CINEMAS PERSONAL-*/
     /*----------------------------------------------------------------------------------*/
@@ -240,7 +240,7 @@
     /*----------------------------------------------------------------------------------*/
     { nombre: "Tigo Sport G", tipo: "Deportes", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tigosportguate.jpg", url: "https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8" },
     { nombre: "CHV Sport", tipo: "Deportes", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/chvsport.jpg", url: "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL" },
-    
+
     /*----------------------------------------------------------------------------------*/
     /*-MUSICA PERSONAL-*/
     /*----------------------------------------------------------------------------------*/
@@ -349,5 +349,26 @@
     { tipo: "YTBOeste", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/venganzaindia.jpg", nombre: "venganzaindia", url: "kwLzgVTG1ik.ytb" },
     { tipo: "YTBOeste", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/lasjusticieras.jpg", nombre: "lasjusticieras", url: "mYFfJKBJNU4.ytb" },
     { tipo: "YTBOeste", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/vidacriminal.jpg", nombre: "vidacriminal", url: "Q8pIrvjEsDU.ytb" },
-    { tipo: "YTBOeste", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/reveldearizona.jpg", nombre: "reveldearizona", url: "HbOUTU-7Xbg.ytb" }
+    { tipo: "YTBOeste", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/reveldearizona.jpg", nombre: "reveldearizona", url: "HbOUTU-7Xbg.ytb" },
+
+    /*----------------------------------------------------------------------------------*/
+    /*-YTBWars-*/
+    /*----------------------------------------------------------------------------------*/
+    { "nombre": "El Final de la 2° Guerra Mundial", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/NNrC3TlKuCc/hqdefault.jpg", "url": "NNrC3TlKuCc.ytb" },
+    { "nombre": "La Muerte del Mayor Ejército Alemán", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/MMbXPuksW-g/hqdefault.jpg", "url": "MMbXPuksW-g.ytb" },
+    { "nombre": "La ejecución Karl H Frank", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/MXhVgxe0Iks/hqdefault.jpg", "url": "MXhVgxe0Iks.ytb" },
+    { "nombre": "Malvinas", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/JEofjadnnyY/hqdefault.jpg", "url": "JEofjadnnyY.ytb" },
+    { "nombre": "June 6, 1944 – The Light of Dawn | History - D-Day - World War II Documentary", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/0UJYYkK4d8s/hqdefault.jpg", "url": "0UJYYkK4d8s.ytb" },
+    { "nombre": "La guerra del Golfo Pérsico I", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/F3juZQ6cFWs/hqdefault.jpg", "url": "F3juZQ6cFWs.ytb" },
+    { "nombre": "Lugares de la Segunda Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/TLm1ydeU0Mw/hqdefault.jpg", "url": "TLm1ydeU0Mw.ytb" },
+    { "nombre": "El Día D-alemana", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/pLUOkuOY1pU/hqdefault.jpg", "url": "pLUOkuOY1pU.ytb" },
+    { "nombre": "Alemania después de Hitler", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/mICSORoM0e4/hqdefault.jpg", "url": "mICSORoM0e4.ytb" },
+    { "nombre": "Los Hallazgos-Segunda Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/gwp1ixdc4Q8/hqdefault.jpg", "url": "gwp1ixdc4Q8.ytb" },
+    { "nombre": "Guerra Mundial 1914-1918", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/p9q8jkZd4vI/hqdefault.jpg", "url": "p9q8jkZd4vI.ytb" },
+    { "nombre": "Tercera guerra mundial", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/O_rytU26jYU/hqdefault.jpg", "url": "O_rytU26jYU.ytb" },
+    { "nombre": "Tercera Guerra Mundial", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/QocOZkXGIMc/hqdefault.jpg", "url": "QocOZkXGIMc.ytb" },
+    { "nombre": "Alemania: Conmemora Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/Uvn84GUct78/hqdefault.jpg", "url": "Uvn84GUct78.ytb" },
+    { "nombre": "Guerra: la marabunta", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/NJwZ7j5qB3Y/hqdefault.jpg", "url": "NJwZ7j5qB3Y.ytb" },
+    { "nombre": "Cómo Terminó la 1° Guerra", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/pREjzJJ08DY/hqdefault.jpg", "url": "pREjzJJ08DY.ytb" },
+    { "nombre": "La Primera Guerra para niños", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/MPBRjw7UZYQ/hqdefault.jpg", "url": "MPBRjw7UZYQ.ytb" }
 ]
