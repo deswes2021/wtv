@@ -370,6 +370,17 @@
     { nombre: "Alemania: Conmemora Guerra", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/Uvn84GUct78/hqdefault.jpg", url: "Uvn84GUct78.ytb" },
     { nombre: "Guerra: la marabunta", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/NJwZ7j5qB3Y/hqdefault.jpg", url: "NJwZ7j5qB3Y.ytb" },
     { nombre: "Cómo Terminó la 1° Guerra", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/pREjzJJ08DY/hqdefault.jpg", url: "pREjzJJ08DY.ytb" },
-    { nombre: "La Primera Guerra para niños", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/MPBRjw7UZYQ/hqdefault.jpg", url: "MPBRjw7UZYQ.ytb" }
+    { nombre: "La Primera Guerra para niños", tipo: "YTBDocumental", logo: "https://i.ytimg.com/vi/MPBRjw7UZYQ/hqdefault.jpg", url: "MPBRjw7UZYQ.ytb" },
+    { "nombre": "La Vida sin Agua", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/JXYFDDU1HrM/hqdefault.jpg", "url": "JXYFDDU1HrM.ytb" },
+    { "nombre": "iberia: La Vida Salvaje", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/hexRbKyouAo/hqdefault.jpg", "url": "hexRbKyouAo.ytb" },
+    { "nombre": "Mayas Secretos Ocultos", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/VzgBpxyzQN0/hqdefault.jpg", "url": "VzgBpxyzQN0.ytb" },
+    { "nombre": "Secretos Egipcios", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/niKjPvHVHK8/hqdefault.jpg", "url": "niKjPvHVHK8.ytb" },
+    { "nombre": "Viaje por las Profundidades", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/nV3mLoeXc74/hqdefault.jpg", "url": "nV3mLoeXc74.ytb" },
+    { "nombre": "Canada Reino de Gigantes", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/V8UGIQjw0D0/hqdefault.jpg", "url": "V8UGIQjw0D0.ytb" },
+    { "nombre": "Maravillas Fascinantes", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/sLOqk6s-hwU/hqdefault.jpg", "url": "sLOqk6s-hwU.ytb" },
+    { "nombre": "Secretos de las Profundidades", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/knUERVioeog/hqdefault.jpg", "url": "knUERVioeog.ytb" },
+    { "nombre": "ILLUMINATI", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/_pkSnz1zN2M/hqdefault.jpg", "url": "_pkSnz1zN2M.ytb" },
+    { "nombre": "AMAZONÍA Secretos de la Selva", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/qvj5eWBdgCA/hqdefault.jpg", "url": "qvj5eWBdgCA.ytb" },
+    { "nombre": "Historia de los Judíos", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/_ReXiLUZ7vk/hqdefault.jpg", "url": "_ReXiLUZ7vk.ytb" }
     
 ]
