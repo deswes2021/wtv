@@ -1,6 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="evento01_0" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Eventos", Teleclub
-http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8
+
+#EXTINF:-1 tvg-id="Activar" tvg-logo="https://img.teleclub.xyz/activar.jpg" group-title="Opciones", Activar
+https://tv.teleclub.xyz/activar
+#EXTINF:-1 tvg-id="Actualizar" tvg-logo="https://img.teleclub.xyz/actualizar.jpg" group-title="Opciones", Actualizar
+Actualizar
+/*-*/
+#EXTINF:-1 tvg-id="TCS+" tvg-logo="https://img.teleclub.xyz/Canal1.jpg" group-title="Opciones", TCS+
+
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://img.teleclub.xyz/Canal2.jpg" group-title="Opciones", Canal 2
+
+#EXTINF:-1 tvg-id="Canal 3" tvg-logo="https://img.teleclub.xyz/Canal3.jpg" group-title="Opciones", Canal 3
+
+#EXTINF:-1 tvg-id="Canal 4" tvg-logo="https://img.teleclub.xyz/Canal4.jpg" group-title="Opciones", Canal 4
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://img.teleclub.xyz/Canal5.jpg" group-title="Opciones", Canal 5
+
+#EXTINF:-1 tvg-id="Canal 6" tvg-logo="https://img.teleclub.xyz/Canal6.jpg" group-title="Opciones", Canal 6
+
+#EXTINF:-1 tvg-id="Canal 7" tvg-logo="https://img.teleclub.xyz/Canal7.jpg" group-title="Opciones", Canal 7
+
+#EXTINF:-1 tvg-id="Canal 8" tvg-logo="https://img.teleclub.xyz/Canal8.jpg" group-title="Opciones", Canal 8
+
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://img.teleclub.xyz/Canal9.jpg" group-title="Opciones", Canal 9
+
+#EXTINF:-1 tvg-id="Canal 10" tvg-logo="https://img.teleclub.xyz/Canal10.jpg" group-title="Opciones", Canal 10
+
+#EXTINF:-1 tvg-id="Canal 11" tvg-logo="https://img.teleclub.xyz/Canal11.jpg" group-title="Opciones", Canal 11
+
+#EXTINF:-1 tvg-id="Canal 12" tvg-logo="https://img.teleclub.xyz/Canal12.jpg" group-title="Opciones", Canal 12
+
+#EXTINF:-1 tvg-id="Canal 19" tvg-logo="https://img.teleclub.xyz/Canal19.jpg" group-title="Opciones", Canal 19
+
+#EXTINF:-1 tvg-id="Canal 21" tvg-logo="https://img.teleclub.xyz/Canal21.jpg" group-title="Opciones", Canal 21
+
+/*-*/
+/*-*/
+/*-*/
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 #EXTINF:-1 tvg-id="directvsports_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
