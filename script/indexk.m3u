@@ -4,13 +4,13 @@
 Opciones
 #EXTINF:-1 tvg-id="Nacionales" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg", Nacionales
 Nacionales
-#EXTINF:-1 tvg-id="Infantiles" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg", Infantiles
+#EXTINF:-1 tvg-id="Infantil" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg", Infantil
 Infantiles
 #EXTINF:-1 tvg-id="Cultura" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cultura.jpg", Cultura
 Cultura
 #EXTINF:-1 tvg-id="Mundo" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Mundo.jpg", Mundo
 Mundo
-#EXTINF:-1 tvg-id="Cinemas" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cinemas.jpg", Cinemas
+#EXTINF:-1 tvg-id="Entretenimiento" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cinemas.jpg", Entretenimiento
 Cinemas
 #EXTINF:-1 tvg-id="24x7" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/24x7.jpg", 24x7
 24x7
