@@ -40,7 +40,7 @@
     { nombre: "Canal 2", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal2.jpg", url: "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8" },
     { nombre: "Canal 3", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal3.jpg", url: "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8" },
     { nombre: "Canal 4", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal4.jpg", url: "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8" },
-    { nombre: "Canal 5", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal5.jpg", url: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8" },
+    { nombre: "Canal 5", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/wowtv.jpg", url: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8" },
     { nombre: "Canal 6", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal6.jpg", url: "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8" },
     { nombre: "Canal 7", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal7.jpg", url: "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8" },
     { nombre: "Canal 8", tipo: "Nacionales", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal8.jpg", url: "http://201.247.102.189/tmp_hls/stream/index.m3u8" },
