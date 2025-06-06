@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Opciones" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Opciones.jpg", Opciones
-Opciones
-#EXTINF:-1 tvg-id="Nacionales" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg", Nacionales
-Nacionales
-#EXTINF:-1 tvg-id="Infantil" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg", Infantil
-Infantil
-#EXTINF:-1 tvg-id="Cultura" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cultura.jpg", Cultura
-Cultura
-#EXTINF:-1 tvg-id="Mundo" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Mundo.jpg", Mundo
-Mundo
-#EXTINF:-1 tvg-id="Entretenimiento" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cinemas.jpg", Entretenimiento
-Entretenimiento
-#EXTINF:-1 tvg-id="24x7" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/24x7.jpg", 24x7
-24x7
-#EXTINF:-1 tvg-id="Deportes" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Deportes.jpg", Deportes
-Deportes
-#EXTINF:-1 tvg-id="Musica" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Musica.jpg", Musica
-Musica
-#EXTINF:-1 tvg-id="Religion" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Religion.jpg", Religion
-Religion
-#EXTINF:-1 tvg-id="YTBOeste" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBOeste.jpg", YTBOeste
-YTBOeste
-#EXTINF:-1 tvg-id="YTBWars" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBWars.jpg", YTBWars
-YTBWars
-#EXTINF:-1 tvg-id="YTBDocumental" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBDocumental.jpg", YTBDocumental
-YTBDocumental
-#EXTINF:-1 tvg-id="YTBFantasy" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFantasy.jpg", YTBFantasy
-YTBFantasy
-#EXTINF:-1 tvg-id="YTBFiction" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFiction.jpg", YTBFiction
-YTBFiction
-#EXTINF:-1 tvg-id="YTBHorror" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBHorror.jpg", YTBHorror
-YTBHorror
-#EXTINF:-1 tvg-id="YTBAnime" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBAnime.jpg", YTBAnime
-YTBAnime
-#EXTINF:-1 tvg-id="YTBFamily" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFamily.jpg", YTBFamily
-YTBFamily
-#EXTINF:-1 tvg-id="YTBComedy" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBComedy.jpg", YTBComedy
-YTBComedy
-#EXTINF:-1 tvg-id="YTBDrama" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBDrama.jpg", YTBDrama
-YTBDrama
-#EXTINF:-1 tvg-id="YTBMusical" group-title="Menu" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBMusical.jpg", YTBMusical
-YTBMusical
 /*-*/
 /*-OPCIONES-*/
 /*-*/
