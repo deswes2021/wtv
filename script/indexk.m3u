@@ -4,6 +4,8 @@
 /*-*/
 #EXTINF:-1 tvg-id="Activar" group-title="Opciones" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/activar.jpg", Activar
 https://tv.teleclub.xyz/activar
+#EXTINF:-1 tvg-id="Cambia M3U" group-title="Opciones" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/newm3u.jpg", Cambia M3U
+./listam3u.html
 #EXTINF:-1 tvg-id="Actualizar" group-title="Opciones" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg", Actualizar
 /actualizar
 /*-*/
