@@ -9,8 +9,8 @@
 #EXTDSC: OPCIONES
 #EXTINF: NOMBRE="actualizar" TIPO="opciones" LOGO="actualizar" URL="actualizar"
 #EXTINF: NOMBRE="activar" TIPO="opciones" LOGO="activar" URL="activar"
-#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="cambia m3u"
-#EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="borrar cache"
+#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="cambiam3u"
+#EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="borrarcache"
 
 #EXTDSC: TELEVISION="MENU"
 #EXTINF: NOMBRE="nacional" TIPO="television" LOGO="nacional" URL="nacional"
@@ -43,8 +43,8 @@
 #EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal26" URL="00000000000"
 #EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal27" URL="00000000000"
 #EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal28" URL="00000000000"
-#EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal29" URL="00000000000"
-#EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal30" URL="00000000000"
+#EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal29" URL=""
+#EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal30" URL=""
 
 #EXTDSC: TELEVISION="INFANTIL"
-#EXTINF: NOMBRE="Cartoon Network" TIPO="infantil" LOGO="tvinfantil1" URL="00000000000"
+#EXTINF: NOMBRE="Cartoon Network" TIPO="infantil" LOGO="tvinfantil1" URL=""
