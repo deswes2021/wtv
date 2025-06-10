@@ -12,7 +12,7 @@
 #EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="cambia m3u"
 #EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="borrar cache"
 
-#EXTDSC: TELEVISION
+#EXTDSC: TELEVISION="MENU"
 #EXTINF: NOMBRE="nacional" TIPO="television" LOGO="nacional" URL="nacional"
 #EXTINF: NOMBRE="infantil" TIPO="television" LOGO="infantil" URL="infantil"
 #EXTINF: NOMBRE="cultura" TIPO="television" LOGO="cultura" URL="cultura"
@@ -21,7 +21,7 @@
 #EXTINF: NOMBRE="24x7" TIPO="television" LOGO="24x7" URL="24x7"
 #EXTINF: NOMBRE="deportes" TIPO="television" LOGO="deportes" URL="deportes"
 
-#EXTDSC: TELEVISION - NACIONAL
+#EXTDSC: TELEVISION="NACIONAL"
 #EXTINF: NOMBRE="tcs +" TIPO="nacional" LOGO="tvnaccanal1" URL="00000000000"
 #EXTINF: NOMBRE="canal 2" TIPO="nacional" LOGO="tvnaccanal2" URL="00000000000"
 #EXTINF: NOMBRE="canal 3" TIPO="nacional" LOGO="tvnaccanal3" URL="00000000000"
@@ -46,5 +46,5 @@
 #EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal29" URL="00000000000"
 #EXTINF: NOMBRE="canal 21" TIPO="nacional" LOGO="tvnaccanal30" URL="00000000000"
 
-#EXTDSC: TELEVISION - INFANTIL
+#EXTDSC: TELEVISION="INFANTIL"
 #EXTINF: NOMBRE="Cartoon Network" TIPO="infantil" LOGO="tvinfantil1" URL="00000000000"
