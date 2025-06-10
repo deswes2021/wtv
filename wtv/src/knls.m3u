@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTDSC: MENU
+#EXTINF: NOMBRE="opciones" TIPO="menu" LOGO="opciones" URL="opciones"
+#EXTINF: NOMBRE="television" TIPO="menu" LOGO="television" URL="television"
+#EXTINF: NOMBRE="peliculas" TIPO="menu" LOGO="peliculas" URL="peliculas"
+#EXTINF: NOMBRE="series" TIPO="menu" LOGO="series" URL="series"
+
+#EXTDSC: OPCIONES
+#EXTINF: NOMBRE="actualizar" TIPO="opciones" LOGO="actualizar" URL="actualizar"
+#EXTINF: NOMBRE="activar" TIPO="opciones" LOGO="activar" URL="activar"
+#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="cambia m3u"
+#EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="borrar cache"
