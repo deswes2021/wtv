@@ -8,8 +8,8 @@
 
 #EXTDSC: OPCIONES
 #EXTINF: NOMBRE="actualizar" TIPO="opciones" LOGO="actualizar" URL="actualizar"
-#EXTINF: NOMBRE="activar" TIPO="opciones" LOGO="activar" URL="activar"
-#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="cambiam3u"
+#EXTINF: NOMBRE="activar" TIPO="opciones" LOGO="activar" URL="https://tv.teleclub.xyz/activar"
+#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="./cambiam3u.html"
 #EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="borrarcache"
 
 #EXTDSC: TELEVISION="MENU"
