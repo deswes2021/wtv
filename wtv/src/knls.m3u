@@ -56,11 +56,19 @@
 #EXTINF: NOMBRE="el camino tv" TIPO="nacional" LOGO="tvnaccanal35" URL=""
 #EXTINF: NOMBRE="trv" TIPO="nacional" LOGO="tvnaccanal36" URL=""
 
-#EXTDSC: TELEVISION="INFANTIL"
-#EXTINF: NOMBRE="Cartoon Network" TIPO="infantil" LOGO="tvinfantil1" URL=""
-
-
-
+#EXTDSC: TELEVISION="PELICULAS_MENU"
+#EXTINF: NOMBRE="oeste" TIPO="peliculas" LOGO="ytboeste" URL="ytboeste"
+#EXTINF: NOMBRE="aventura" TIPO="peliculas" LOGO="ytbaventura" URL="ytbaventura"
+#EXTINF: NOMBRE="wars" TIPO="peliculas" LOGO="tvinfantil1" URL="ytbwars"
+#EXTINF: NOMBRE="fiction" TIPO="peliculas" LOGO="ytbfiction" URL="ytbfiction"
+#EXTINF: NOMBRE="fantasy" TIPO="peliculas" LOGO="ytbfantasy" URL="ytbfantasy"
+#EXTINF: NOMBRE="horror" TIPO="peliculas" LOGO="ytbhorror" URL="ytbhorror"
+#EXTINF: NOMBRE="animado" TIPO="peliculas" LOGO="ytbanimado" URL="ytbanimado"
+#EXTINF: NOMBRE="comedia" TIPO="peliculas" LOGO="ytbcomedia" URL="ytbcomedia"
+#EXTINF: NOMBRE="family" TIPO="peliculas" LOGO="ytbfamily" URL="ytbfamily"
+#EXTINF: NOMBRE="drama" TIPO="peliculas" LOGO="ytbdrama" URL="ytbdrama"
+#EXTINF: NOMBRE="romance" TIPO="peliculas" LOGO="ytbdrama" URL="ytbromance"
+#EXTINF: NOMBRE="musical" TIPO="peliculas" LOGO="ytbmusical" URL="ytbmusical"
 
 #EXTDSC: TELEVISION="TELECLUB"
 #EXTINF:-1 tvg-id="evento01_0" LOGO="https://img.teleclub.xyz/evento.png" TIPO="Eventos" NOMBRE="Teleclub" URL="http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8"
