@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTDSC: TELEVISION="NACIONAL"
+#EXTINF: NOMBRE="Activador TeleClucb +" TIPO="nacional" LOGO="actvtvclub" URL="https://tv.teleclub.xyz/activar"
+#EXTDSC: TELEVISION="NACIONAL"
 #EXTINF: NOMBRE="tcs +" TIPO="nacional" LOGO="tvnaccanal1" URL=""
 #EXTINF: NOMBRE="canal 2" TIPO="nacional" LOGO="tvnaccanal2" URL=""
 #EXTINF: NOMBRE="canal 3" TIPO="nacional" LOGO="tvnaccanal3" URL=""
