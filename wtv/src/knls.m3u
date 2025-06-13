@@ -167,7 +167,7 @@
 #EXTINF:-1 tvg-id="HBO_3" LOGO="hbo" TIPO="Entretenimiento" NOMBRE="HBO" URL="http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8"
 #EXTINF:-1 tvg-id="hbo2_3" LOGO="hbo2" TIPO="Entretenimiento" NOMBRE="HBO 2" URL="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8"
 #EXTINF:-1 tvg-id="hbo_family_3" LOGO="hbofamily" TIPO="Entretenimiento" NOMBRE="HBO Family" URL="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8"
-#EXTINF:-1 tvg-id="hbosignature_3" LOGO="" TIPO="Entretenimiento" NOMBRE="HBO Signature" URL="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8"
+#EXTINF:-1 tvg-id="hbosignature_3" LOGO="hbosignature" TIPO="Entretenimiento" NOMBRE="HBO Signature" URL="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8"
 #EXTINF:-1 tvg-id="hboxtreme_3" LOGO="hboxtreme" TIPO="Entretenimiento" NOMBRE="HBO Xtreme" URL="http://tv.teleclub.xyz/stream/server_3/entretenimiento/hboxtreme/master.m3u8"
 #EXTINF:-1 tvg-id="multipremier_1" LOGO="multipremier" TIPO="Entretenimiento" NOMBRE="Multipremier" URL="http://tv.teleclub.xyz/stream/server_1/entretenimiento/multipremier/master.m3u8"
 #EXTINF:-1 tvg-id="paramountnetwork_1" LOGO="paramount" TIPO="Entretenimiento" NOMBRE="Paramount Network" URL="http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8"
