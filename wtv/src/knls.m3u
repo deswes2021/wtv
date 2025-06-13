@@ -9,10 +9,10 @@
 #EXTINF: NOMBRE="adultos" TIPO="menu" LOGO="xxxm3u" URL="xxxm3u"
 
 #EXTDSC: OPCIONES
-#EXTINF: NOMBRE="actualizar" TIPO="opciones" LOGO="actualizar" URL="actualizar"
-#EXTINF: NOMBRE="activar" TIPO="opciones" LOGO="activar" URL="activar"
-#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="cambiam3u"
-#EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="borrarcache"
+#EXTINF: NOMBRE="actualizar" TIPO="opciones" LOGO="actualizar" URL="/actualizar"
+#EXTINF: NOMBRE="activar" TIPO="opciones" LOGO="activar" URL="/activar"
+#EXTINF: NOMBRE="cambia m3u" TIPO="opciones" LOGO="cambiam3u" URL="/cambiam3u"
+#EXTINF: NOMBRE="borrar cache" TIPO="opciones" LOGO="borrarcache" URL="/borrarcache"
 
 #EXTDSC: TELEVISION="MENU"
 #EXTINF: NOMBRE="nacional" TIPO="television" LOGO="nacional" URL="nacional"
