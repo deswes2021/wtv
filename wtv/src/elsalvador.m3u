@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTDSC: TELEVISION="OPCIONES"
-#EXTINF: NOMBRE="Activador TeleClucb" TIPO="opciones" LOGO="activar" URL="https://tv.teleclub.xyz/activar"
-#EXTINF: NOMBRE="Actualizar" TIPO="opciones" LOGO="actualizar" URL="/actualizar"
-#EXTINF: NOMBRE="Limpiar Cache" TIPO="opciones" LOGO="borrarcache" URL="/borrarcache"
-#EXTDSC: TELEVISION="NACIONAL"
 #EXTINF: NOMBRE="tcs +" TIPO="nacional" LOGO="tvnaccanal1" URL=""
 #EXTINF: NOMBRE="canal 2" TIPO="nacional" LOGO="tvnaccanal2" URL=""
 #EXTINF: NOMBRE="canal 3" TIPO="nacional" LOGO="tvnaccanal3" URL=""
