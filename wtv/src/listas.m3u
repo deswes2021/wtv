@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF: nombre="Opciones" logo="opciones" tipo="listas" url="https://raw.githubusercontent.com/deswes2021/wtv/main/wtv/src/opciones.m3u"
-#EXTINF: nombre="El Salvador" logo="elsalvador" tipo="listas" url="https://raw.githubusercontent.com/deswes2021/wtv/main/wtv/src/elsalvador.m3u"
-#EXTINF: nombre="Peliculas" logo="peliculas" tipo="listas" url="https://raw.githubusercontent.com/deswes2021/wtv/main/wtv/src/peliculas.m3u"
-#EXTINF: nombre="Series" logo="series" tipo="listas" url="https://raw.githubusercontent.com/deswes2021/wtv/main/wtv/src/series.m3u"
-#EXTINF: nombre="Tele Club" logo="teleclub" tipo="listas" url="https://raw.githubusercontent.com/deswes2021/wtv/main/wtv/src/teleclub.m3u"
