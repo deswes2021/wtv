@@ -283,45 +283,214 @@ http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
 
 
-#EXTLST: PERSONAL-YTBOESTE
-#EXTINF:-1 tvg-id="0000000" group-title="ytboeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
+#EXTLST: PELICULAS DEL OESTE"
+#EXTINF: group-title="ytboeste" tvg-name="porunosdolares" tvg-logo="https://img.youtube.com/vi/22LUQT2MuXk/hqdefault.jpg" tvg-url="22LUQT2MuXk"
+#EXTINF: group-title="ytboeste" tvg-name="elbuenoelmaloyelfeo" tvg-logo="https://img.youtube.com/vi/NXVSV4UKz-4/hqdefault.jpg" tvg-url="NXVSV4UKz-4"
+#EXTINF: group-title="ytboeste" tvg-name="elultimopistolero" tvg-logo="https://img.youtube.com/vi/IZ_vtx3kC4s/hqdefault.jpg" tvg-url="IZ_vtx3kC4s"
+#EXTINF: group-title="ytboeste" tvg-name="lavenganzadefrankjames" tvg-logo="https://img.youtube.com/vi/_emI0fhXszw/hqdefault.jpg" tvg-url="_emI0fhXszw"
+#EXTINF: group-title="ytboeste" tvg-name="barroenlosojos" tvg-logo="https://img.youtube.com/vi/Q_yYNKUwTc8/hqdefault.jpg" tvg-url="Q_yYNKUwTc8"
+#EXTINF: group-title="ytboeste" tvg-name="unmalditoamanecer" tvg-logo="https://img.youtube.com/vi/-UoUvcu5lGk/hqdefault.jpg" tvg-url="-UoUvcu5lGk"
+#EXTINF: group-title="ytboeste" tvg-name="lamuertenocuentalosdolares" tvg-logo="https://img.youtube.com/vi/5FA2MXpUMWw/hqdefault.jpg" tvg-url="5FA2MXpUMWw"
+#EXTINF: group-title="ytboeste" tvg-name="lasombradesartana" tvg-logo="https://img.youtube.com/vi/ycW9U9eQ5Rs/hqdefault.jpg" tvg-url="ycW9U9eQ5Rs"
+#EXTINF: group-title="ytboeste" tvg-name="masalladelaley" tvg-logo="https://img.youtube.com/vi/Uq0ChAeYO5w/hqdefault.jpg" tvg-url="Uq0ChAeYO5w"
+#EXTINF: group-title="ytboeste" tvg-name="django" tvg-logo="https://img.youtube.com/vi/PJoIQcBl4QU/hqdefault.jpg" tvg-url="PJoIQcBl4QU"
+#EXTINF: group-title="ytboeste" tvg-name="regresoacasadeunvaquero" tvg-logo="https://img.youtube.com/vi/fSJmNgkCqks/hqdefault.jpg" tvg-url="fSJmNgkCqks"
+#EXTINF: group-title="ytboeste" tvg-name="unhombreuncaballounapistola" tvg-logo="https://img.youtube.com/vi/GyoMx-kkWaw/hqdefault.jpg" tvg-url="GyoMx-kkWaw"
+#EXTINF: group-title="ytboeste" tvg-name="los4defortapache" tvg-logo="https://img.youtube.com/vi/QhtmoKK44FQ/hqdefault.jpg" tvg-url="QhtmoKK44FQ"
+#EXTINF: group-title="ytboeste" tvg-name="unagujeroenlafrente" tvg-logo="https://img.youtube.com/vi/p2xqPYogeIw/hqdefault.jpg" tvg-url="p2xqPYogeIw"
+#EXTINF: group-title="ytboeste" tvg-name="justiciacalibre45" tvg-logo="https://img.youtube.com/vi/DzUvg9y5Hac/hqdefault.jpg" tvg-url="DzUvg9y5Hac"
+#EXTINF: group-title="ytboeste" tvg-name="lellamabantrinidad" tvg-logo="https://img.youtube.com/vi/ChzXUUU76lg/hqdefault.jpg" tvg-url="ChzXUUU76lg"
+#EXTINF: group-title="ytboeste" tvg-name="leseguianllamandotrinidad" tvg-logo="https://img.youtube.com/vi/fMMOFkqGj_0/hqdefault.jpg" tvg-url="fMMOFkqGj_0"
+#EXTINF: group-title="ytboeste" tvg-name="elhombredeladiligencia" tvg-logo="https://img.youtube.com/vi/Ez8_j6DDzlQ/hqdefault.jpg" tvg-url="Ez8_j6DDzlQ"
+#EXTINF: group-title="ytboeste" tvg-name="unvaqueromuertonoesunvaquero" tvg-logo="https://img.youtube.com/vi/raRR1C_YF-8/hqdefault.jpg" tvg-url="raRR1C_YF-8"
+#EXTINF: group-title="ytboeste" tvg-name="ringovuelveparamatar" tvg-logo="https://img.youtube.com/vi/e_nxEk1G9Kg/hqdefault.jpg" tvg-url="e_nxEk1G9Kg"
+#EXTINF: group-title="ytboeste" tvg-name="dueloenelbarro" tvg-logo="https://img.youtube.com/vi/CCGYDkerli0/hqdefault.jpg" tvg-url="CCGYDkerli0"
+#EXTINF: group-title="ytboeste" tvg-name="123disparaestavez" tvg-logo="https://img.youtube.com/vi/F7Y2sqi_GXM/hqdefault.jpg" tvg-url="F7Y2sqi_GXM"
+#EXTINF: group-title="ytboeste" tvg-name="laleydelahorca" tvg-logo="https://img.youtube.com/vi/jCvCYtlZ49E/hqdefault.jpg" tvg-url="jCvCYtlZ49E"
+#EXTINF: group-title="ytboeste" tvg-name="kidblue" tvg-logo="https://img.youtube.com/vi/ImGL5OyNVJI/hqdefault.jpg" tvg-url="ImGL5OyNVJI"
+#EXTINF: group-title="ytboeste" tvg-name="eljugador" tvg-logo="https://img.youtube.com/vi/c_D4pH73BaE/hqdefault.jpg" tvg-url="c_D4pH73BaE"
+#EXTINF: group-title="ytboeste" tvg-name="danzaconlobos" tvg-logo="https://img.youtube.com/vi/WGx8LvOsSQ0/hqdefault.jpg" tvg-url="WGx8LvOsSQ0"
+#EXTINF: group-title="ytboeste" tvg-name="latumba" tvg-logo="https://img.youtube.com/vi/VnpWsNNS0Z4/hqdefault.jpg" tvg-url="VnpWsNNS0Z4"
+#EXTINF: group-title="ytboeste" tvg-name="KirkDouglasOeste" tvg-logo="https://img.youtube.com/vi/coIuejnBxFg/hqdefault.jpg" tvg-url="coIuejnBxFg"
+#EXTINF: group-title="ytboeste" tvg-name="aliadosimprobables" tvg-logo="https://img.youtube.com/vi/5YeeIcHEJTo/hqdefault.jpg" tvg-url="5YeeIcHEJTo"
+#EXTINF: group-title="ytboeste" tvg-name="elsheriftraidor" tvg-logo="https://img.youtube.com/vi/G40EhRUBYQQ/hqdefault.jpg" tvg-url="G40EhRUBYQQ"
+#EXTINF: group-title="ytboeste" tvg-name="sinperdon" tvg-logo="https://img.youtube.com/vi/aDIZcOSdnfc/hqdefault.jpg" tvg-url="aDIZcOSdnfc"
+#EXTINF: group-title="ytboeste" tvg-name="perrossucios" tvg-logo="https://img.youtube.com/vi/EE1DNIQ6-go/hqdefault.jpg" tvg-url="EE1DNIQ6-go"
+#EXTINF: group-title="ytboeste" tvg-name="puedesamigo" tvg-logo="https://img.youtube.com/vi/iwQIz7_5oOk/hqdefault.jpg" tvg-url="iwQIz7_5oOk"
+#EXTINF: group-title="ytboeste" tvg-name="fueradetiempo" tvg-logo="https://img.youtube.com/vi/qlnIqcw-7Sc/hqdefault.jpg" tvg-url="qlnIqcw-7Sc"
+#EXTINF: group-title="ytboeste" tvg-name="trinidadysartana" tvg-logo="https://img.youtube.com/vi/Ej9TvNhZbwk/hqdefault.jpg" tvg-url="Ej9TvNhZbwk"
+#EXTINF: group-title="ytboeste" tvg-name="ahorcado" tvg-logo="https://img.youtube.com/vi/EkcZ96_G254/hqdefault.jpg" tvg-url="EkcZ96_G254"
+#EXTINF: group-title="ytboeste" tvg-name="tuverdugo" tvg-logo="https://img.youtube.com/vi/bh801UK-kv8/hqdefault.jpg" tvg-url="bh801UK-kv8"
+#EXTINF: group-title="ytboeste" tvg-name="sangreenlatierra" tvg-logo="https://img.youtube.com/vi/1vS_tBbqnIk/hqdefault.jpg" tvg-url="1vS_tBbqnIk"
+#EXTINF: group-title="ytboeste" tvg-name="unacoltenlamanodeldiablo" tvg-logo="https://img.youtube.com/vi/4pgIObGuCrY/hqdefault.jpg" tvg-url="4pgIObGuCrY"
+#EXTINF: group-title="ytboeste" tvg-name="quiengritavenganza" tvg-logo="https://img.youtube.com/vi/MfKAyo-/hqdefault.jpg" tvg-url="MfKAyo-"
+#EXTINF: group-title="ytboeste" tvg-name="legendbillielnino" tvg-logo="https://img.youtube.com/vi/V56eP9G6698/hqdefault.jpg" tvg-url="V56eP9G6698"
+#EXTINF: group-title="ytboeste" tvg-name="sagitario" tvg-logo="https://img.youtube.com/vi/Y4TuwWW7lRo/hqdefault.jpg" tvg-url="Y4TuwWW7lRo"
+#EXTINF: group-title="ytboeste" tvg-name="westernpeligroso" tvg-logo="https://img.youtube.com/vi/3LCZsuQ1Dc0/hqdefault.jpg" tvg-url="3LCZsuQ1Dc0"
+#EXTINF: group-title="ytboeste" tvg-name="westbrother" tvg-logo="https://img.youtube.com/vi/9jGSejS0mak/hqdefault.jpg" tvg-url="9jGSejS0mak"
+#EXTINF: group-title="ytboeste" tvg-name="padremurai" tvg-logo="https://img.youtube.com/vi/ySHHK11NRzg/hqdefault.jpg" tvg-url="ySHHK11NRzg"
+#EXTINF: group-title="ytboeste" tvg-name="riomaldito" tvg-logo="https://img.youtube.com/vi/3JgPlDGg4RQ/hqdefault.jpg" tvg-url="3JgPlDGg4RQ"
+#EXTINF: group-title="ytboeste" tvg-name="colinadebotas" tvg-logo="https://img.youtube.com/vi/UAFo-RkQM3o/hqdefault.jpg" tvg-url="UAFo-RkQM3o"
+#EXTINF: group-title="ytboeste" tvg-name="elborde" tvg-logo="https://img.youtube.com/vi/4sVl6R42v54/hqdefault.jpg" tvg-url="4sVl6R42v54"
+#EXTINF: group-title="ytboeste" tvg-name="lagranja" tvg-logo="https://img.youtube.com/vi/FRK3_OkTyqs/hqdefault.jpg" tvg-url="FRK3_OkTyqs"
+#EXTINF: group-title="ytboeste" tvg-name="otroladodeley" tvg-logo="https://img.youtube.com/vi/fiKg-4XSR3g/hqdefault.jpg" tvg-url="fiKg-4XSR3g"
+#EXTINF: group-title="ytboeste" tvg-name="apachekid" tvg-logo="https://img.youtube.com/vi/A1d2ew6Y-d0/hqdefault.jpg" tvg-url="A1d2ew6Y-d0"
+#EXTINF: group-title="ytboeste" tvg-name="elvengador" tvg-logo="https://img.youtube.com/vi/HZnHCu2i6Cc/hqdefault.jpg" tvg-url="HZnHCu2i6Cc"
+#EXTINF: group-title="ytboeste" tvg-name="fiebredepradera" tvg-logo="https://img.youtube.com/vi/cLpWouaOx8k/hqdefault.jpg" tvg-url="cLpWouaOx8k"
+#EXTINF: group-title="ytboeste" tvg-name="frankyjessi" tvg-logo="https://img.youtube.com/vi/XrC-6BTNjhM/hqdefault.jpg" tvg-url="XrC-6BTNjhM"
+#EXTINF: group-title="ytboeste" tvg-name="malditoinvierno" tvg-logo="https://img.youtube.com/vi/-UoUvcu5lGk/hqdefault.jpg" tvg-url="-UoUvcu5lGk"
+#EXTINF: group-title="ytboeste" tvg-name="duelomortal" tvg-logo="https://img.youtube.com/vi/cjPkpjqXPN0/hqdefault.jpg" tvg-url="cjPkpjqXPN0"
+#EXTINF: group-title="ytboeste" tvg-name="sinaliento" tvg-logo="https://img.youtube.com/vi/Me_J3c2VSdA/hqdefault.jpg" tvg-url="Me_J3c2VSdA"
+#EXTINF: group-title="ytboeste" tvg-name="oromaldito" tvg-logo="https://img.youtube.com/vi/4cgD60meH88/hqdefault.jpg" tvg-url="4cgD60meH88"
+#EXTINF: group-title="ytboeste" tvg-name="loquieromuerto" tvg-logo="https://img.youtube.com/vi/L3CMFyAJP1Y/hqdefault.jpg" tvg-url="L3CMFyAJP1Y"
+#EXTINF: group-title="ytboeste" tvg-name="rapidoylamuerte" tvg-logo="https://img.youtube.com/vi/eL2Zj_ODvIE/hqdefault.jpg" tvg-url="eL2Zj_ODvIE"
+#EXTINF: group-title="ytboeste" tvg-name="venganzaeneloeste" tvg-logo="https://img.youtube.com/vi/2sebynsktco/hqdefault.jpg" tvg-url="2sebynsktco"
+#EXTINF: group-title="ytboeste" tvg-name="eltesorodejessijames" tvg-logo="https://img.youtube.com/vi/kDlAI0cScAk/hqdefault.jpg" tvg-url="kDlAI0cScAk"
+#EXTINF: group-title="ytboeste" tvg-name="mannaja" tvg-logo="https://img.youtube.com/vi/TAixK1I7zUc/hqdefault.jpg" tvg-url="TAixK1I7zUc"
+#EXTINF: group-title="ytboeste" tvg-name="shriftmandibula" tvg-logo="https://img.youtube.com/vi/aDmW2gJWlKs/hqdefault.jpg" tvg-url="aDmW2gJWlKs"
+#EXTINF: group-title="ytboeste" tvg-name="atravesdelhuracan" tvg-logo="https://img.youtube.com/vi/5BPyw9UJvAQ/hqdefault.jpg" tvg-url="5BPyw9UJvAQ"
+#EXTINF: group-title="ytboeste" tvg-name="dinamitajoe" tvg-logo="https://img.youtube.com/vi/tQHKf6zXUlM/hqdefault.jpg" tvg-url="tQHKf6zXUlM"
+#EXTINF: group-title="ytboeste" tvg-name="eltirador" tvg-logo="https://img.youtube.com/vi/fH1VGUSS4Ec/hqdefault.jpg" tvg-url="fH1VGUSS4Ec"
+#EXTINF: group-title="ytboeste" tvg-name="weslegend" tvg-logo="https://img.youtube.com/vi/z8xorTxs8vo/hqdefault.jpg" tvg-url="z8xorTxs8vo"
+#EXTINF: group-title="ytboeste" tvg-name="historia2pistolas" tvg-logo="https://img.youtube.com/vi/ZEeUfXQ-O8Q/hqdefault.jpg" tvg-url="ZEeUfXQ-O8Q"
+#EXTINF: group-title="ytboeste" tvg-name="balasthobs" tvg-logo="https://img.youtube.com/vi/rg-0MJlSFMk/hqdefault.jpg" tvg-url="rg-0MJlSFMk"
+#EXTINF: group-title="ytboeste" tvg-name="vidadepistolero" tvg-logo="https://img.youtube.com/vi/3akhgwkg9aM/hqdefault.jpg" tvg-url="3akhgwkg9aM"
+#EXTINF: group-title="ytboeste" tvg-name="sinley" tvg-logo="https://img.youtube.com/vi/mXdgzs9TZQ4/hqdefault.jpg" tvg-url="mXdgzs9TZQ4"
+#EXTINF: group-title="ytboeste" tvg-name="llanerosol" tvg-logo="https://img.youtube.com/vi/i05brRClB5k/hqdefault.jpg" tvg-url="i05brRClB5k"
+#EXTINF: group-title="ytboeste" tvg-name="5forajidos" tvg-logo="https://img.youtube.com/vi/nxWSy1UbLRs/hqdefault.jpg" tvg-url="nxWSy1UbLRs"
+#EXTINF: group-title="ytboeste" tvg-name="batalladeearp" tvg-logo="https://img.youtube.com/vi/Ockz1-Eg1uA/hqdefault.jpg" tvg-url="Ockz1-Eg1uA"
+#EXTINF: group-title="ytboeste" tvg-name="killerkid" tvg-logo="https://img.youtube.com/vi/HgjWsQ2ZXnM/hqdefault.jpg" tvg-url="HgjWsQ2ZXnM"
+#EXTINF: group-title="ytboeste" tvg-name="alambradadeviolencia" tvg-logo="https://img.youtube.com/vi/TFagDpmF4yQ/hqdefault.jpg" tvg-url="TFagDpmF4yQ"
+#EXTINF: group-title="ytboeste" tvg-name="sentencia" tvg-logo="https://img.youtube.com/vi/w-IszlzEfZo/hqdefault.jpg" tvg-url="w-IszlzEfZo"
+#EXTINF: group-title="ytboeste" tvg-name="rewcazador" tvg-logo="https://img.youtube.com/vi/s9qpHI2U4yo/hqdefault.jpg" tvg-url="s9qpHI2U4yo"
+#EXTINF: group-title="ytboeste" tvg-name="granmclint" tvg-logo="https://img.youtube.com/vi/kMoZ8YqyIag/hqdefault.jpg" tvg-url="kMoZ8YqyIag"
+#EXTINF: group-title="ytboeste" tvg-name="hickok" tvg-logo="https://img.youtube.com/vi/wydC2NxmXA0/hqdefault.jpg" tvg-url="wydC2NxmXA0"
+#EXTINF: group-title="ytboeste" tvg-name="pistolamaldita" tvg-logo="https://img.youtube.com/vi/BvMfVBdIxc4/hqdefault.jpg" tvg-url="BvMfVBdIxc4"
+#EXTINF: group-title="ytboeste" tvg-name="diezhorcas" tvg-logo="https://img.youtube.com/vi/kDzifV2oe4c/hqdefault.jpg" tvg-url="kDzifV2oe4c"
+#EXTINF: group-title="ytboeste" tvg-name="cazadordedemonios" tvg-logo="https://img.youtube.com/vi/bje4lTTXVRM/hqdefault.jpg" tvg-url="bje4lTTXVRM"
+#EXTINF: group-title="ytboeste" tvg-name="rifledeken" tvg-logo="https://img.youtube.com/vi/m6FYVLjaazU/hqdefault.jpg" tvg-url="m6FYVLjaazU"
+#EXTINF: group-title="ytboeste" tvg-name="fronteradelsur" tvg-logo="https://img.youtube.com/vi/m72vUx_K92A/hqdefault.jpg" tvg-url="m72vUx_K92A"
+#EXTINF: group-title="ytboeste" tvg-name="djangovssartana" tvg-logo="https://img.youtube.com/vi/vgdzl-N7vs0/hqdefault.jpg" tvg-url="vgdzl-N7vs0"
+#EXTINF: group-title="ytboeste" tvg-name="filadecruces" tvg-logo="https://img.youtube.com/vi/x1Q3D7ju2bI/hqdefault.jpg" tvg-url="x1Q3D7ju2bI"
+#EXTINF: group-title="ytboeste" tvg-name="venganzaindia" tvg-logo="https://img.youtube.com/vi/kwLzgVTG1ik/hqdefault.jpg" tvg-url="kwLzgVTG1ik"
+#EXTINF: group-title="ytboeste" tvg-name="lasjusticieras" tvg-logo="https://img.youtube.com/vi/mYFfJKBJNU4/hqdefault.jpg" tvg-url="mYFfJKBJNU4"
+#EXTINF: group-title="ytboeste" tvg-name="vidacriminal" tvg-logo="https://img.youtube.com/vi/Q8pIrvjEsDU/hqdefault.jpg" tvg-url="Q8pIrvjEsDU"
+#EXTINF: group-title="ytboeste" tvg-name="reveldearizona" tvg-logo="https://img.youtube.com/vi/HbOUTU-7Xbg/hqdefault.jpg" tvg-url="HbOUTU-7Xbg"
 
+#EXTLST: PELICULAS DE GUERRA
+#EXTINF: group-title="ytbwars" tvg-name="unionbound" tvg-logo="https://img.youtube.com/vi/23vSIMEyJs4/hqdefault.jpg" tvg-url="23vSIMEyJs4"
+#EXTINF: group-title="ytbwars" tvg-name="warsrace" tvg-logo="https://img.youtube.com/vi/6CxBeAXQiYs/hqdefault.jpg" tvg-url="6CxBeAXQiYs"
+#EXTINF: group-title="ytbwars" tvg-name="invencible" tvg-logo="https://img.youtube.com/vi/GB38cgAaAVw/hqdefault.jpg" tvg-url="GB38cgAaAVw"
+#EXTINF: group-title="ytbwars" tvg-name="ultimaaccion" tvg-logo="https://img.youtube.com/vi/RMSLbKTzbGw/hqdefault.jpg" tvg-url="RMSLbKTzbGw"
+#EXTINF: group-title="ytbwars" tvg-name="santosysoldados" tvg-logo="https://img.youtube.com/vi/J9G9YmMOcvA/hqdefault.jpg" tvg-url="J9G9YmMOcvA"
+#EXTINF: group-title="ytbwars" tvg-name="sinretorno" tvg-logo="https://img.youtube.com/vi/M47p7rUuOHQ/hqdefault.jpg" tvg-url="M47p7rUuOHQ"
+#EXTINF: group-title="ytbwars" tvg-name="masayadelafrontera" tvg-logo="https://img.youtube.com/vi/9Wygy3Fr6aQ/hqdefault.jpg" tvg-url="9Wygy3Fr6aQ"
+#EXTINF: group-title="ytbwars" tvg-name="guerrabrutal" tvg-logo="https://img.youtube.com/vi/6ARShw9Y8g8/hqdefault.jpg" tvg-url="6ARShw9Y8g8"
+#EXTINF: group-title="ytbwars" tvg-name="misionnormandia" tvg-logo="https://img.youtube.com/vi/lWJggDnV-Vs/hqdefault.jpg" tvg-url="lWJggDnV-Vs"
+#EXTINF: group-title="ytbwars" tvg-name="laprimeralinea" tvg-logo="https://img.youtube.com/vi/JT6yGDDp-f8/hqdefault.jpg" tvg-url="JT6yGDDp-f8"
+#EXTINF: group-title="ytbwars" tvg-name="batallaxlibertad" tvg-logo="https://img.youtube.com/vi/aDzuEtOt9NM/hqdefault.jpg" tvg-url="aDzuEtOt9NM"
+#EXTINF: group-title="ytbwars" tvg-name="guerradeinvierno" tvg-logo="https://img.youtube.com/vi/2_vhGWJvkNo/hqdefault.jpg" tvg-url="2_vhGWJvkNo"
+#EXTINF: group-title="ytbwars" tvg-name="soysara" tvg-logo="https://img.youtube.com/vi/T4nvl1iPzzk/hqdefault.jpg" tvg-url="T4nvl1iPzzk"
+#EXTINF: group-title="ytbwars" tvg-name="brotherinwars" tvg-logo="https://img.youtube.com/vi/RrFiCFSlQOw/hqdefault.jpg" tvg-url="RrFiCFSlQOw"
+#EXTINF: group-title="ytbwars" tvg-name="elturista" tvg-logo="https://img.youtube.com/vi/4OgHMJzFLF0/hqdefault.jpg" tvg-url="4OgHMJzFLF0"
+#EXTINF: group-title="ytbwars" tvg-name="tiemposdeoscuridad" tvg-logo="https://img.youtube.com/vi/c5WQBhsp7fc/hqdefault.jpg" tvg-url="c5WQBhsp7fc"
+#EXTINF: group-title="ytbwars" tvg-name="zonadeguerra" tvg-logo="https://img.youtube.com/vi/Jya839LUhaQ/hqdefault.jpg" tvg-url="Jya839LUhaQ"
+#EXTINF: group-title="ytbwars" tvg-name="operacionrescate" tvg-logo="https://img.youtube.com/vi/tUgoLnJ5R4E/hqdefault.jpg" tvg-url="tUgoLnJ5R4E"
+#EXTINF: group-title="ytbwars" tvg-name="golpeamericano" tvg-logo="https://img.youtube.com/vi/tDqdFRgRHSY/hqdefault.jpg" tvg-url="tDqdFRgRHSY"
+#EXTINF: group-title="ytbwars" tvg-name="alavista" tvg-logo="https://img.youtube.com/vi/DFbiQfxT4vU/hqdefault.jpg" tvg-url="DFbiQfxT4vU"
+#EXTINF: group-title="ytbwars" tvg-name="lealtad" tvg-logo="https://img.youtube.com/vi/ZWaHIRMFpJY/hqdefault.jpg" tvg-url="ZWaHIRMFpJY"
+#EXTINF: group-title="ytbwars" tvg-name="sacrificiofinal" tvg-logo="https://img.youtube.com/vi/ttzynHVaE4s/hqdefault.jpg" tvg-url="ttzynHVaE4s"
+#EXTINF: group-title="ytbwars" tvg-name="5diasdeguerra" tvg-logo="https://img.youtube.com/vi/j8BgyiUqSSU/hqdefault.jpg" tvg-url="j8BgyiUqSSU"
+#EXTINF: group-title="ytbwars" tvg-name="1914frenteoccidental" tvg-logo="https://img.youtube.com/vi/PB4D5yFN2dg/hqdefault.jpg" tvg-url="PB4D5yFN2dg"
+#EXTINF: group-title="ytbwars" tvg-name="1989sv" tvg-logo="https://img.youtube.com/vi/RHwooe3nFCE/hqdefault.jpg" tvg-url="RHwooe3nFCE"
+#EXTINF: group-title="ytbwars" tvg-name="vocesinocentes" tvg-logo="https://img.youtube.com/vi/hQy453pK5bk/hqdefault.jpg" tvg-url="hQy453pK5bk"
+#EXTINF: group-title="ytbwars" tvg-name="sobreviviendoguazapa" tvg-logo="https://img.youtube.com/vi/OTk8oLXJNiM/hqdefault.jpg" tvg-url="OTk8oLXJNiM"
+#EXTINF: group-title="ytbwars" tvg-name="almasdehierro" tvg-logo="https://img.youtube.com/vi/qytWjSC8e0o/hqdefault.jpg" tvg-url="qytWjSC8e0o"
+#EXTINF: group-title="ytbwars" tvg-name="soldierboy" tvg-logo="https://img.youtube.com/vi/PEwsnrTiNCU/hqdefault.jpg" tvg-url="PEwsnrTiNCU"
+#EXTINF: group-title="ytbwars" tvg-name="holocausto" tvg-logo="https://img.youtube.com/vi/hA8nQShZ7MA/hqdefault.jpg" tvg-url="hA8nQShZ7MA"
+#EXTINF: group-title="ytbwars" tvg-name="operacionnaziabajo" tvg-logo="https://img.youtube.com/vi/-kVjYCiE-a0/hqdefault.jpg" tvg-url="-kVjYCiE-a0"
+#EXTINF: group-title="ytbwars" tvg-name="escapedeauschwitz" tvg-logo="https://img.youtube.com/vi/C1a3CLcDgUk/hqdefault.jpg" tvg-url="C1a3CLcDgUk"
+#EXTINF: group-title="ytbwars" tvg-name="masdellimite" tvg-logo="https://img.youtube.com/vi/0oRIpy7pGU4/hqdefault.jpg" tvg-url="0oRIpy7pGU4"
+#EXTINF: group-title="ytbwars" tvg-name="entramosalamanecer" tvg-logo="https://img.youtube.com/vi/VmeW9o0nEug/hqdefault.jpg" tvg-url="VmeW9o0nEug"
+#EXTINF: group-title="ytbwars" tvg-name="aladoenemigo" tvg-logo="https://img.youtube.com/vi/H6n1RIML19Q/hqdefault.jpg" tvg-url="H6n1RIML19Q"
+#EXTINF: group-title="ytbwars" tvg-name="hamptonlegion" tvg-logo="https://img.youtube.com/vi/SI_bhTqYb5M/hqdefault.jpg" tvg-url="SI_bhTqYb5M"
+#EXTINF: group-title="ytbwars" tvg-name="36horasdeguerra" tvg-logo="https://img.youtube.com/vi/CGGkEQ0YomA/hqdefault.jpg" tvg-url="CGGkEQ0YomA"
+#EXTINF: group-title="ytbwars" tvg-name="ultimoataqhitler" tvg-logo="https://img.youtube.com/vi/ZBGYdJSU6Eg/hqdefault.jpg" tvg-url="ZBGYdJSU6Eg"
+#EXTINF: group-title="ytbwars" tvg-name="stalingrado" tvg-logo="https://img.youtube.com/vi/dzOZSaJPo-c/hqdefault.jpg" tvg-url="dzOZSaJPo-c"
+#EXTINF: group-title="ytbwars" tvg-name="lagranguerra" tvg-logo="https://img.youtube.com/vi/p9q8jkZd4vI/hqdefault.jpg" tvg-url="p9q8jkZd4vI"
+#EXTINF: group-title="ytbwars" tvg-name="batallalingrado" tvg-logo="https://img.youtube.com/vi/TIeCTzFhanI/hqdefault.jpg" tvg-url="TIeCTzFhanI"
+#EXTINF: group-title="ytbwars" tvg-name="rojosonazis" tvg-logo="https://img.youtube.com/vi/39a_fwyyZOw/hqdefault.jpg" tvg-url="39a_fwyyZOw"
+#EXTINF: group-title="ytbwars" tvg-name="lobosj" tvg-logo="https://img.youtube.com/vi/jKMeLFGMVDQ/hqdefault.jpg" tvg-url="jKMeLFGMVDQ"
+#EXTINF: group-title="ytbwars" tvg-name="fuimosheroes" tvg-logo="https://img.youtube.com/vi/Eyp9xekwjUM/hqdefault.jpg" tvg-url="Eyp9xekwjUM"
+#EXTINF: group-title="ytbwars" tvg-name="traslineaenemiga3" tvg-logo="https://img.youtube.com/vi/X6bLBIlIrZs/hqdefault.jpg" tvg-url="X6bLBIlIrZs"
+#EXTINF: group-title="ytbwars" tvg-name="deciciondehonor" tvg-logo="https://img.youtube.com/vi/vbyjaZbqc4s/hqdefault.jpg" tvg-url="vbyjaZbqc4s"
+#EXTINF: group-title="ytbwars" tvg-name="lalegion" tvg-logo="https://img.youtube.com/vi/fGRYHGCMx_Q/hqdefault.jpg" tvg-url="fGRYHGCMx_Q"
+#EXTINF: group-title="ytbwars" tvg-name="fantasmasdeguerra" tvg-logo="https://img.youtube.com/vi/bjUt6ALO4JM/hqdefault.jpg" tvg-url="bjUt6ALO4JM"
+#EXTINF: group-title="ytbwars" tvg-name="talibans" tvg-logo="https://img.youtube.com/vi/AUri0KULgHk/hqdefault.jpg" tvg-url="AUri0KULgHk"
+#EXTINF: group-title="ytbwars" tvg-name="hiroshima" tvg-logo="https://img.youtube.com/vi/5JbdrAVLvS8/hqdefault.jpg" tvg-url="5JbdrAVLvS8"
+#EXTINF: group-title="ytbwars" tvg-name="ultimotrenauschwitz" tvg-logo="https://img.youtube.com/vi/2yZUplpZ0xY/hqdefault.jpg" tvg-url="2yZUplpZ0xY"
+#EXTINF: group-title="ytbwars" tvg-name="guardiadeauschwitz" tvg-logo="https://img.youtube.com/vi/VvHdig2bMXw/hqdefault.jpg" tvg-url="VvHdig2bMXw"
+#EXTINF: group-title="ytbwars" tvg-name="diariodeanafrank" tvg-logo="https://img.youtube.com/vi/zBV2uN8Zcjg/hqdefault.jpg" tvg-url="zBV2uN8Zcjg"
+#EXTINF: group-title="ytbwars" tvg-name="profpersa" tvg-logo="https://img.youtube.com/vi/Gd674X9fqtQ/hqdefault.jpg" tvg-url="Gd674X9fqtQ"
+#EXTINF: group-title="ytbwars" tvg-name="angeldeauschwitz" tvg-logo="https://img.youtube.com/vi/POHpohU0sGg/hqdefault.jpg" tvg-url="POHpohU0sGg"
 
-#EXTLST: PERSONAL-YTBWARS
-#EXTINF:-1 tvg-id="0000000" group-title="ytbwars" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
+#EXTLST: PELICULAS FAMILIARES
+#EXTINF: group-title="ytbfamily" tvg-name="masalladeltiempo" tvg-logo="https://img.youtube.com/vi/JmYo0Pvo4rA/hqdefault.jpg" tvg-url="JmYo0Pvo4rA"
+#EXTINF: group-title="ytbfamily" tvg-name="lenyelperro" tvg-logo="https://img.youtube.com/vi/itUzTS-j4B4/hqdefault.jpg" tvg-url="itUzTS-j4B4"
+#EXTINF: group-title="ytbfamily" tvg-name="caballocampeon" tvg-logo="https://img.youtube.com/vi/sOvojtQKivg/hqdefault.jpg" tvg-url="sOvojtQKivg"
+#EXTINF: group-title="ytbfamily" tvg-name="atrapandoelsueño" tvg-logo="https://img.youtube.com/vi/K5hiC5uc31o/hqdefault.jpg" tvg-url="K5hiC5uc31o"
+#EXTINF: group-title="ytbfamily" tvg-name="jinetesconespiritu" tvg-logo="https://img.youtube.com/vi/LdOm7MrIGkg/hqdefault.jpg" tvg-url="LdOm7MrIGkg"
+#EXTINF: group-title="ytbfamily" tvg-name="famav" tvg-logo="https://img.youtube.com/vi/I-AvQoU6meo/hqdefault.jpg" tvg-url="I-AvQoU6meo"
+#EXTINF: group-title="ytbfamily" tvg-name="aldiablolove" tvg-logo="https://img.youtube.com/vi/f1lZWZsjHMg/hqdefault.jpg" tvg-url="f1lZWZsjHMg"
+#EXTINF: group-title="ytbfamily" tvg-name="elviselcerdo" tvg-logo="https://img.youtube.com/vi/zM5Bh34QxIM/hqdefault.jpg" tvg-url="zM5Bh34QxIM"
+#EXTINF: group-title="ytbfamily" tvg-name="sueñodehope" tvg-logo="https://img.youtube.com/vi/PZITHoTqeqU/hqdefault.jpg" tvg-url="PZITHoTqeqU"
+#EXTINF: group-title="ytbfamily" tvg-name="legadodehope" tvg-logo="https://img.youtube.com/vi/a2Eg3aACp8g/hqdefault.jpg" tvg-url="a2Eg3aACp8g"
+#EXTINF: group-title="ytbfamily" tvg-name="princesaypony" tvg-logo="https://img.youtube.com/vi/sFHA27C2Hg4/hqdefault.jpg" tvg-url="sFHA27C2Hg4"
+#EXTINF: group-title="ytbfamily" tvg-name="inviernodehoro" tvg-logo="https://img.youtube.com/vi/lyxw6uuGygY/hqdefault.jpg" tvg-url="lyxw6uuGygY"
+#EXTINF: group-title="ytbfamily" tvg-name="12perrosdenavidad" tvg-logo="https://img.youtube.com/vi/GiV2LJu7lao/hqdefault.jpg" tvg-url="GiV2LJu7lao"
+#EXTINF: group-title="ytbfamily" tvg-name="navidadpara2" tvg-logo="https://img.youtube.com/vi/UWKYriniaYk/hqdefault.jpg" tvg-url="UWKYriniaYk"
+#EXTINF: group-title="ytbfamily" tvg-name="waldisneymagico" tvg-logo="https://img.youtube.com/vi/bgqyGXvMuj4/hqdefault.jpg" tvg-url="bgqyGXvMuj4"
+#EXTINF: group-title="ytbfamily" tvg-name="perrodelcielo" tvg-logo="https://img.youtube.com/vi/ifxXypfIWDQ/hqdefault.jpg" tvg-url="ifxXypfIWDQ"
+#EXTINF: group-title="ytbfamily" tvg-name="cuandoloshijosregresan" tvg-logo="https://img.youtube.com/vi/oDZuUp6bkLM/hqdefault.jpg" tvg-url="oDZuUp6bkLM"
+#EXTINF: group-title="ytbfamily" tvg-name="tialocademy" tvg-logo="https://img.youtube.com/vi/f8cnlrYD3VY/hqdefault.jpg" tvg-url="f8cnlrYD3VY"
+#EXTINF: group-title="ytbfamily" tvg-name="perfectosdesconocidos" tvg-logo="https://img.youtube.com/vi/0-NdsaETJug/hqdefault.jpg" tvg-url="0-NdsaETJug"
+#EXTINF: group-title="ytbfamily" tvg-name="peqdetectives" tvg-logo="https://img.youtube.com/vi/_nTw52VumXA/hqdefault.jpg" tvg-url="_nTw52VumXA"
+#EXTINF: group-title="ytbfamily" tvg-name="escueladelavida" tvg-logo="https://img.youtube.com/vi/eJE4d4fDp6s/hqdefault.jpg" tvg-url="eJE4d4fDp6s"
 
+#EXTLST: PELICULAS DE COMEDIA
+#EXTINF: group-title="ytbcomedy" tvg-name="lacocinademelisa" tvg-logo="https://img.youtube.com/vi/k8zo3-3obNw/hqdefault.jpg" tvg-url="k8zo3-3obNw"
+#EXTINF: group-title="ytbcomedy" tvg-name="matildap" tvg-logo="https://img.youtube.com/vi/LnrtigFK63c/hqdefault.jpg" tvg-url="LnrtigFK63c"
+#EXTINF: group-title="ytbcomedy" tvg-name="womenvsman" tvg-logo="https://img.youtube.com/vi/PgC8t9koy-U/hqdefault.jpg" tvg-url="PgC8t9koy-U"
+#EXTINF: group-title="ytbcomedy" tvg-name="launi" tvg-logo="https://img.youtube.com/vi/anB8rWWQtWE/hqdefault.jpg" tvg-url="anB8rWWQtWE"
+#EXTINF: group-title="ytbcomedy" tvg-name="40mas" tvg-logo="https://img.youtube.com/vi/iCClkuzitv0/hqdefault.jpg" tvg-url="iCClkuzitv0"
 
-#EXTLST: PERSONAL-YTBDOCUMENTAL
-#EXTINF:-1 tvg-id="0000000" group-title="ytbdocumental" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
+#EXTLST: PELICULAS DE ANIME
+#EXTINF: group-title="ytbanime" tvg-name=""planetadeltesoro" tvg-logo="https://img.youtube.com/vi/qGtY_O5ioUE/hqdefault.jpg" tvg-url="qGtY_O5ioUE"
+#EXTINF: group-title="ytbanime" tvg-name=""birdslikeus" tvg-logo="https://img.youtube.com/vi/347kxf8pGzA/hqdefault.jpg" tvg-url="347kxf8pGzA"
+#EXTINF: group-title="ytbanime" tvg-name=""rikibuscacuerno" tvg-logo="https://img.youtube.com/vi/qtsde0Fodtc/hqdefault.jpg" tvg-url="qtsde0Fodtc"
+#EXTINF: group-title="ytbanime" tvg-name=""dbzsuperbroly" tvg-logo="https://img.youtube.com/vi/YcNIFi9ocNM/hqdefault.jpg" tvg-url="YcNIFi9ocNM"
+#EXTINF: group-title="ytbanime" tvg-name=""inuyasha1" tvg-logo="https://img.youtube.com/vi/AN2NhRHHtpo/hqdefault.jpg" tvg-url="AN2NhRHHtpo"
+#EXTINF: group-title="ytbanime" tvg-name=""inuyasha2" tvg-logo="https://img.youtube.com/vi/YH7I80xznyY/hqdefault.jpg" tvg-url="YH7I80xznyY"
+#EXTINF: group-title="ytbanime" tvg-name=""inuyasha3" tvg-logo="https://img.youtube.com/vi/GiT2gX3f7h8/hqdefault.jpg" tvg-url="GiT2gX3f7h8"
+#EXTINF: group-title="ytbanime" tvg-name=""bleach2" tvg-logo="https://img.youtube.com/vi/kQMxFzwdsV4/hqdefault.jpg" tvg-url="kQMxFzwdsV4"
+#EXTINF: group-title="ytbanime" tvg-name=""bleach4" tvg-logo="https://img.youtube.com/vi/L2E4ELz_AkI/hqdefault.jpg" tvg-url="L2E4ELz_AkI"
+#EXTINF: group-title="ytbanime" tvg-name=""vampirehunter" tvg-logo="https://img.youtube.com/vi/D_J-nr6GcFY/hqdefault.jpg" tvg-url="D_J-nr6GcFY"
+#EXTINF: group-title="ytbanime" tvg-name=""blame" tvg-logo="https://img.youtube.com/vi/oafUsF4LqfA/hqdefault.jpg" tvg-url="oafUsF4LqfA"
+#EXTINF: group-title="ytbanime" tvg-name=""dantesinferno" tvg-logo="https://img.youtube.com/vi/OelibyLx6jM/hqdefault.jpg" tvg-url="OelibyLx6jM"
+#EXTINF: group-title="ytbanime" tvg-name=""narutoninjaroad" tvg-logo="https://img.youtube.com/vi/FzRH5Iaa8Uc/hqdefault.jpg" tvg-url="FzRH5Iaa8Uc"
+#EXTINF: group-title="ytbanime" tvg-name=""narutoprisiondesangre" tvg-logo="https://img.youtube.com/vi/SCYlPNUTaOc/hqdefault.jpg" tvg-url="SCYlPNUTaOc"
+#EXTINF: group-title="ytbanime" tvg-name=""onepiecegold" tvg-logo="https://img.youtube.com/vi/h2oFTsH64EM/hqdefault.jpg" tvg-url="h2oFTsH64EM"
+#EXTINF: group-title="ytbanime" tvg-name=""redline" tvg-logo="https://img.youtube.com/vi/nQH47RD25Gc/hqdefault.jpg" tvg-url="nQH47RD25Gc"
 
+#EXTLST: PELICULAS DE VARIADO
+#EXTINF: group-title="ytbvarios" tvg-name="amoryfrijoles" tvg-logo="https://img.youtube.com/vi/UOx6guR1v54/hqdefault.jpg" tvg-url="UOx6guR1v54"
+#EXTINF: group-title="ytbvarios" tvg-name="reinoprohibido" tvg-logo="https://img.youtube.com/vi/2aESi-d6ino/hqdefault.jpg" tvg-url="2aESi-d6ino"
+#EXTINF: group-title="ytbvarios" tvg-name="realidadacelerada" tvg-logo="https://img.youtube.com/vi/DexVJ5x8cj8/hqdefault.jpg" tvg-url="DexVJ5x8cj8"
+#EXTINF: group-title="ytbvarios" tvg-name="camelotdragon" tvg-logo="https://img.youtube.com/vi/R4dJm8OsonY/hqdefault.jpg" tvg-url="R4dJm8OsonY"
+#EXTINF: group-title="ytbvarios" tvg-name="askeladden" tvg-logo="https://img.youtube.com/vi/XjKltO4dsRY/hqdefault.jpg" tvg-url="XjKltO4dsRY"
+#EXTINF: group-title="ytbvarios" tvg-name="faunuland" tvg-logo="https://img.youtube.com/vi/EYF09C7wsmc/hqdefault.jpg" tvg-url="EYF09C7wsmc"
+#EXTINF: group-title="ytbvarios" tvg-name="aveturefantasy" tvg-logo="https://img.youtube.com/vi/Ec_zUC3g94g/hqdefault.jpg" tvg-url="Ec_zUC3g94g"
+#EXTINF: group-title="ytbvarios" tvg-name="elquintoelemento" tvg-logo="https://img.youtube.com/vi/6AqNScn5Cq4/hqdefault.jpg" tvg-url="6AqNScn5Cq4"
+#EXTINF: group-title="ytbvarios" tvg-name="princesademarte" tvg-logo="https://img.youtube.com/vi/5-tRv2i3G2g/hqdefault.jpg" tvg-url="5-tRv2i3G2g"
+#EXTINF: group-title="ytbvarios" tvg-name="laninasinmagia" tvg-logo="https://img.youtube.com/vi/ShyUTIx7_hE/hqdefault.jpg" tvg-url="ShyUTIx7_hE"
 
-#EXTLST: PERSONAL-YTBFANTASIA
-#EXTINF:-1 tvg-id="0000000" group-title="ytbfantasy" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBFICCION
-#EXTINF:-1 tvg-id="0000000" group-title="ytbfiction" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBHORROR
-#EXTINF:-1 tvg-id="0000000" group-title="ytbhorror" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBANIME
-#EXTINF:-1 tvg-id="0000000" group-title="ytbanime" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBFAMILIA
-#EXTINF:-1 tvg-id="0000000" group-title="ytbfamily" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBCOMEDIA
-#EXTINF:-1 tvg-id="0000000" group-title="ytbcomedy" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBDRAMA
-#EXTINF:-1 tvg-id="0000000" group-title="ytbdrama" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
-
-
-#EXTLST: PERSONAL-YTBMUSICAL
-#EXTINF:-1 tvg-id="0000000" group-title="ytbmusical" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/0000000.jpg", 0000000
