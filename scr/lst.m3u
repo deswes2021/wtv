@@ -2,8 +2,8 @@
 
 #EXTINF:-1 wtv-tipo="menu" wtv-name="opciones" wtv-logo="opciones" wtv-xurl="opciones"
 #EXTINF:-1 wtv-tipo="menu" wtv-name="nacionales" wtv-logo="nacionales" wtv-xurl="nacionales"
-#EXTINF:-1 wtv-tipo="menu" wtv-name="infantiles" wtv-logo="infantiles" wtv-xurl="infantiles"
-#EXTINF:-1 wtv-tipo="menu" wtv-name="mundo" wtv-logo="mundo" wtv-xurl="menu.mundo"
+#EXTINF:-1 wtv-tipo="menu" wtv-name="infantil" wtv-logo="infantil" wtv-xurl="infantil"
+#EXTINF:-1 wtv-tipo="menu" wtv-name="mundo" wtv-logo="mundo" wtv-xurl="mundo"
 #EXTINF:-1 wtv-tipo="menu" wtv-name="cultura" wtv-logo="cultura" wtv-xurl="cultura"
 #EXTINF:-1 wtv-tipo="menu" wtv-name="entretenimiento" wtv-logo="entretenimiento" wtv-xurl="entretenimiento"
 #EXTINF:-1 wtv-tipo="menu" wtv-name="24x7" wtv-logo="24x7" wtv-xurl="24x7"
