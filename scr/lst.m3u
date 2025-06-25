@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTLST: Canales Opcionanes
-#EXTINF:-1 wtv-tipo="opciones" wtv-name="actualizar" wtv-logo="actualizar" wtv-xurl="actualizar"
+#EXTINF:-1 wtv-tipo="opciones" wtv-name="actualizar" wtv-logo="actualizar" wtv-xurl="/actualizar"
 #EXTINF:-1 wtv-tipo="opciones" wtv-name="activar" wtv-logo="activar" wtv-xurl="https://tv.teleclub.xyz/activar"
-#EXTINF:-1 wtv-tipo="opciones" wtv-name="borrar cache" wtv-logo="borrarcache" wtv-xurl="borrarcache"
+#EXTINF:-1 wtv-tipo="opciones" wtv-name="borrar cache" wtv-logo="borrarcache" wtv-xurl="/borrarkche"
 
 #EXTLST: Canales Nacionales
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 1" wtv-logo="canal1" wtv-xurl="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"
