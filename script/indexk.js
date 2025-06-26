@@ -55,127 +55,726 @@
     /*----------------------------------------------------------------------------------*/
     /*-TELECLUB-*/
     /*----------------------------------------------------------------------------------*/
-    { inf: "beinsportsextran_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/beinsportsn.jpg", tipo: "Deportes", nombre: "Bein Sports Extra Ñ", url: "http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8" },
-    { inf: "directvsports_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/directvsports.jpg", tipo: "Deportes", nombre: "Directv Sports", url: "http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8" },
-    { inf: "directvsportsplus_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/directvsports.jpg", tipo: "Deportes", nombre: "Directv Sports +", url: "http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8" },
-    { inf: "directvsports2_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/directvsports2.jpg", tipo: "Deportes", nombre: "Directv Sports 2", url: "http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8" },
-    { inf: "espn1_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/espn.jpg", tipo: "Deportes", nombre: "ESPN 1", url: "http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8" },
-    { inf: "espn2_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/espn2.jpg", tipo: "Deportes", nombre: "ESPN 2", url: "http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8" },
-    { inf: "espn3_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/espn3.jpg", tipo: "Deportes", nombre: "ESPN 3", url: "http://tv.teleclub.xyz/stream/server_2/deportes/espn3/master.m3u8" },
-    { inf: "espn4_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/espn4.jpg", tipo: "Deportes", nombre: "ESPN 4", url: "http://tv.teleclub.xyz/stream/server_2/deportes/espn4/master.m3u8" },
-    { inf: "espn5_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/espn.jpg", tipo: "Deportes", nombre: "ESPN 5", url: "http://tv.teleclub.xyz/stream/server_2/deportes/espn5/master.m3u8" },
-    { inf: "espnpremium_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/espnpremium.jpg", tipo: "Deportes", nombre: "ESPN Premium", url: "http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8" },
-    { inf: "foxsports1_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports.jpg", tipo: "Deportes", nombre: "Fox Sports 1", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1/master.m3u8" },
-    { inf: "foxsports1mx_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports.jpg", tipo: "Deportes", nombre: "Fox Sports 1 MX", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8" },
-    { inf: "foxsports2_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports2.jpg", tipo: "Deportes", nombre: "Fox Sports 2", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2/master.m3u8" },
-    { inf: "foxsports2mx_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports2.jpg", tipo: "Deportes", nombre: "Fox Sports 2 MX", url: "http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8" },
-    { inf: "foxsports2mx_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports2.jpg", tipo: "Deportes", nombre: "Fox Sports 2 MX", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8" },
-    { inf: "foxsports3_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports3.jpg", tipo: "Deportes", nombre: "Fox Sports 3", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3/master.m3u8" },
-    { inf: "foxsports3mx_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsports3.jpg", tipo: "Deportes", nombre: "Fox Sports 3 MX", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8" },
-    { inf: "foxsportspremiummx_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/foxsportspremium.jpg", tipo: "Deportes", nombre: "Fox Sports Premium MX", url: "http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8" },
-    { inf: "golperu_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golperu.jpg", tipo: "Deportes", nombre: "Gol Peru", url: "http://tv.teleclub.xyz/stream/server_2/deportes/golperu/master.m3u8" },
-    { inf: "goltv_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/goltv.jpg", tipo: "Deportes", nombre: "Gol TV", url: "http://tv.teleclub.xyz/stream/server_2/deportes/goltv/master.m3u8" },
-    { inf: "tntsports_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tntsports.jpg", tipo: "Deportes", nombre: "TNT Sports", url: "http://tv.teleclub.xyz/stream/server_2/deportes/tntsports/master.m3u8" },
-    { inf: "tudn_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tudn.jpg", tipo: "Deportes", nombre: "TUDN", url: "http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8" },
-    { inf: "tycsports_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tycsports.jpg", tipo: "Deportes", nombre: "TyC Sports", url: "http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8" },
-    { inf: "winsportsplus_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/winsportsplus.jpg", tipo: "Deportes", nombre: "Win Sports Plus", url: "http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8" },
-    { inf: "cartoonnetwork_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cartoonnetwork.jpg", tipo: "Infantiles", nombre: "Cartoon Network", url: "http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8" },
-    { inf: "cartoonnetwork_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cartoonnetwork.jpg", tipo: "Infantiles", nombre: "Cartoon Network", url: "http://tv.teleclub.xyz/stream/server_3/infantil/cartoonnetwork/master.m3u8" },
-    { inf: "cartoonito_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cartoonito.jpg", tipo: "Infantiles", nombre: "Cartoonito", url: "http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8" },
-    { inf: "discoverykids_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoverykids.jpg", tipo: "Infantiles", nombre: "Discovery Kids", url: "http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8" },
-    { inf: "disney_channel_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/disneychannel.jpg", tipo: "Infantiles", nombre: "Disney Channel", url: "http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8" },
-    { inf: "disney_jr_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/disneyjr.jpg", tipo: "Infantiles", nombre: "Disney Jr", url: "http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8" },
-    { inf: "energeek_retro_0", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/energeekstream.jpg", tipo: "Infantiles", nombre: "Energeek Retro", url: "http://tv.teleclub.xyz/stream/server_0/infantil/energeek_retro/master.m3u8" },
-    { inf: "nick_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/nick.jpg", tipo: "Infantiles", nombre: "Nick", url: "http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8" },
-    { inf: "tooncast_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tooncast.jpg", tipo: "Infantiles", nombre: "Tooncast", url: "http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8" },
-    { inf: "atv_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/atvl.jpg", tipo: "Mundo", nombre: "ATV", url: "http://tv.teleclub.xyz/stream/server_1/mundo/atv/master.m3u8" },
-    { inf: "azteca7_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/azteca7.jpg", tipo: "Mundo", nombre: "Azteca 7", url: "http://tv.teleclub.xyz/stream/server_1/mundo/azteca7/master.m3u8" },
-    { inf: "aztecauno_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/azteca1.jpg", tipo: "Mundo", nombre: "Azteca Uno", url: "http://tv.teleclub.xyz/stream/server_1/mundo/aztecauno/master.m3u8" },
-    { inf: "canal5_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal5.jpg", tipo: "Mundo", nombre: "Canal 5", url: "http://tv.teleclub.xyz/stream/server_1/mundo/canal5/master.m3u8" },
-    { inf: "canal_e_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/canale.jpg", tipo: "Mundo", nombre: "Canal E!", url: "http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8" },
-    { inf: "caracol_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/caracol.jpg", tipo: "Mundo", nombre: "Caracol TV", url: "http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8" },
-    { inf: "dwchannel_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/dwchannel.jpg", tipo: "Mundo", nombre: "DW Channel", url: "http://tv.teleclub.xyz/stream/server_1/mundo/dwchannel/master.m3u8" },
-    { inf: "ecuavisa_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ecuavisa.jpg", tipo: "Mundo", nombre: "Ecuavisa", url: "http://tv.teleclub.xyz/stream/server_1/mundo/ecuavisa/master.m3u8" },
-    { inf: "eltrece_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/trecel.jpg", tipo: "Mundo", nombre: "El Trece", url: "http://tv.teleclub.xyz/stream/server_1/mundo/eltrece/master.m3u8" },
-    { inf: "galavision_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/galavson.jpg", tipo: "Mundo", nombre: "Galavisión", url: "http://tv.teleclub.xyz/stream/server_1/mundo/galavision/master.m3u8" },
-    { inf: "imagenmx_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/imagentv.jpg", tipo: "Mundo", nombre: "Imagen TV", url: "http://tv.teleclub.xyz/stream/server_1/mundo/imagenmx/master.m3u8" },
-    { inf: "lasestrellas_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/lasestrellas.jpg", tipo: "Mundo", nombre: "Las Estrellas", url: "http://tv.teleclub.xyz/stream/server_1/mundo/lasestrellas/master.m3u8" },
-    { inf: "latina_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/latinatv.jpg", tipo: "Mundo", nombre: "Latina TV", url: "http://tv.teleclub.xyz/stream/server_1/mundo/latina/master.m3u8" },
-    { inf: "pasiones_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/pasiones.jpg", tipo: "Mundo", nombre: "Pasiones", url: "http://tv.teleclub.xyz/stream/server_1/mundo/pasiones/master.m3u8" },
-    { inf: "rcn_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/rcn.jpg", tipo: "Mundo", nombre: "RCN", url: "http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8" },
-    { inf: "rcn_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/rcn.jpg", tipo: "Mundo", nombre: "RCN", url: "http://tv.teleclub.xyz/stream/server_3/mundo/rcn/master.m3u8" },
-    { inf: "telefe_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/telefe.jpg", tipo: "Mundo", nombre: "Telefe", url: "http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8" },
-    { inf: "telemundopuertorico_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/telemundo.jpg", tipo: "Mundo", nombre: "Telemundo Puerto Rico", url: "http://tv.teleclub.xyz/stream/server_1/mundo/telemundopuertorico/master.m3u8" },
-    { inf: "tlc_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tlc.jpg", tipo: "Mundo", nombre: "TLC", url: "http://tv.teleclub.xyz/stream/server_1/mundo/tlc/master.m3u8" },
-    { inf: "tlnovelas_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tlnovelas.jpg", tipo: "Mundo", nombre: "tlnovelas", url: "http://tv.teleclub.xyz/stream/server_3/mundo/tlnovelas/master.m3u8" },
-    { inf: "tlnovelas_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tlnovelas.jpg", tipo: "Mundo", nombre: "tlnovelas", url: "http://tv.teleclub.xyz/stream/server_1/mundo/tlnovelas/master.m3u8" },
-    { inf: "unicable_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/unicable.jpg", tipo: "Mundo", nombre: "Unicable", url: "http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8" },
-    { inf: "univision_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/univision.jpg", tipo: "Mundo", nombre: "Univisión", url: "http://tv.teleclub.xyz/stream/server_1/mundo/univision/master.m3u8" },
-    { inf: "willaxtv_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/willaxtv.jpg", tipo: "Mundo", nombre: "Willax TV", url: "http://tv.teleclub.xyz/stream/server_1/mundo/willaxtv/master.m3u8" },
-    { inf: "animalplanet_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/animalplanet.jpg", tipo: "Cultura", nombre: "Animal Planet", url: "http://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8" },
-    { inf: "discoverychannel_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoverychannel.jpg", tipo: "Cultura", nombre: "Discovery Channel", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8" },
-    { inf: "discoveryh_h_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoveryhh.jpg", tipo: "Cultura", nombre: "Discovery H&H", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8" },
-    { inf: "discoveryscience_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoverysci.jpg", tipo: "Cultura", nombre: "Discovery Science", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryscience/master.m3u8" },
-    { inf: "discoverytheater_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoverytheater.jpg", tipo: "Cultura", nombre: "Discovery Theater", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoverytheater/master.m3u8" },
-    { inf: "discoveryturbo_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoveryturbo.jpg", tipo: "Cultura", nombre: "Discovery Turbo", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryturbo/master.m3u8" },
-    { inf: "discoveryworld_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/discoveryworld.jpg", tipo: "Cultura", nombre: "Discovery World", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8" },
-    { inf: "elgourmet_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/elgourmet.jpg", tipo: "Cultura", nombre: "El Gourmet", url: "http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8" },
-    { inf: "h2_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/h2.jpg", tipo: "Cultura", nombre: "H2", url: "http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8" },
-    { inf: "history_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/history.jpg", tipo: "Cultura", nombre: "History", url: "http://tv.teleclub.xyz/stream/server_1/cultura/history/master.m3u8" },
-    { inf: "history_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/history.jpg", tipo: "Cultura", nombre: "History", url: "http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8" },
-    { inf: "discoveryid_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/did.jpg", tipo: "Cultura", nombre: "ID", url: "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8" },
-    { inf: "nationalgeographic_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/natgeo.jpg", tipo: "Cultura", nombre: "National Geographic", url: "http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8" },
-    { inf: "a_e_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/ae.jpg", tipo: "Cinemas", nombre: "A&E", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8" },
-    { inf: "amc_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/amc.jpg", tipo: "Cinemas", nombre: "AMC", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8" },
-    { inf: "axn_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/axn.jpg", tipo: "Cinemas", nombre: "AXN", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/axn/master.m3u8" },
-    { inf: "axn_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/axn.jpg", tipo: "Cinemas", nombre: "AXN", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8" },
-    { inf: "cinecanal_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinecanal.jpg", tipo: "Cinemas", nombre: "Cinecanal", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8" },
-    { inf: "cinecanal_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinecanal.jpg", tipo: "Cinemas", nombre: "Cinecanal", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8" },
-    { inf: "cinemax_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinemax.jpg", tipo: "Cinemas", nombre: "Cinemax", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinemax/master.m3u8" },
-    { inf: "cinemax_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinemax.jpg", tipo: "Cinemas", nombre: "Cinemax", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinemax/master.m3u8" },
-    { inf: "comedycentral_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/comedycentral.jpg", tipo: "Cinemas", nombre: "Comedy Central", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/comedycentral/master.m3u8" },
-    { inf: "depelicula_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/depelicula.jpg", tipo: "Cinemas", nombre: "DePelicula", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8" },
-    { inf: "dhe_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/dhe.jpg", tipo: "Cinemas", nombre: "DHE", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/dhe/master.m3u8" },
-    { inf: "distritocomedia_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/distritocomedia.jpg", tipo: "Cinemas", nombre: "Distrito Comedia", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/distritocomedia/master.m3u8" },
-    { inf: "fx_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/fx.jpg", tipo: "Cinemas", nombre: "FX", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/fx/master.m3u8" },
-    { inf: "fx_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/fx.jpg", tipo: "Cinemas", nombre: "FX", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/fx/master.m3u8" },
-    { inf: "golden_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golden.jpg", tipo: "Cinemas", nombre: "Golden", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/golden/master.m3u8" },
-    { inf: "golden_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golden.jpg", tipo: "Cinemas", nombre: "Golden", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/golden/master.m3u8" },
-    { inf: "goldenedge_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/goldenedge.jpg", tipo: "Cinemas", nombre: "Golden Edge", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8" },
-    { inf: "goldenplus_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golden.jpg", tipo: "Cinemas", nombre: "Golden Plus", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8" },
-    { inf: "goldenpremier_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golden.jpg", tipo: "Cinemas", nombre: "Golden Premier", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier/master.m3u8" },
-    { inf: "goldenpremier_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golden.jpg", tipo: "Cinemas", nombre: "Golden Premier", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/goldenpremier/master.m3u8" },
-    { inf: "goldenpremier2_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/golden.jpg", tipo: "Cinemas", nombre: "Golden Premier 2", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier2/master.m3u8" },
-    { inf: "HBO_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbo.jpg", tipo: "Cinemas", nombre: "HBO", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8" },
-    { inf: "hbo2_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbo2.jpg", tipo: "Cinemas", nombre: "HBO 2", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8" },
-    { inf: "hbo_family_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbofamily.jpg", tipo: "Cinemas", nombre: "HBO Family", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8" },
-    { inf: "hbosignature_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hbosigma.jpg", tipo: "Cinemas", nombre: "HBO Signature", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8" },
-    { inf: "hboxtreme_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/hboxtreme.jpg", tipo: "Cinemas", nombre: "HBO Xtreme", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hboxtreme/master.m3u8" },
-    { inf: "multipremier_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/multipremier.jpg", tipo: "Cinemas", nombre: "Multipremier", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/multipremier/master.m3u8" },
-    { inf: "paramountnetwork_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/paramount.jpg", tipo: "Cinemas", nombre: "Paramount Network", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8" },
-    { inf: "sony_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/sony.jpg", tipo: "Cinemas", nombre: "Sony", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/sony/master.m3u8" },
-    { inf: "sony_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/sony.jpg", tipo: "Cinemas", nombre: "Sony", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/sony/master.m3u8" },
-    { inf: "space_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/space.jpg", tipo: "Cinemas", nombre: "Space", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/space/master.m3u8" },
-    { inf: "space_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/space.jpg", tipo: "Cinemas", nombre: "Space", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/space/master.m3u8" },
-    { inf: "starchannel_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/star.jpg", tipo: "Cinemas", nombre: "Star Channel", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8" },
-    { inf: "starchannel_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/star.jpg", tipo: "Cinemas", nombre: "Star Channel", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/starchannel/master.m3u8" },
-    { inf: "studiouniversal_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/studiouniversal.jpg", tipo: "Cinemas", nombre: "Studio Universal", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/studiouniversal/master.m3u8" },
-    { inf: "studiouniversal_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/studiouniversal.jpg", tipo: "Cinemas", nombre: "Studio Universasl", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/studiouniversal/master.m3u8" },
-    { inf: "tnt_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tnt.jpg", tipo: "Cinemas", nombre: "TNT", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8" },
-    { inf: "tntseries_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tntseries.jpg", tipo: "Cinemas", nombre: "TNT Series", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/tntseries/master.m3u8" },
-    { inf: "tntseries_2", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/tntseries.jpg", tipo: "Cinemas", nombre: "TNT Series", url: "http://tv.teleclub.xyz/stream/server_2/entretenimiento/tntseries/master.m3u8" },
-    { inf: "universalcinema_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/universalcinema.jpg", tipo: "Cinemas", nombre: "Universal Cinema", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/universalcinema/master.m3u8" },
-    { inf: "universalcinema_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/universal_cinema.jpg", tipo: "Cinemas", nombre: "Universal Cinema", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8" },
-    { inf: "universaltv_3", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/universal.jpg", tipo: "Cinemas", nombre: "Universal TV", url: "http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8" },
-    { inf: "universaltv_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/universal.jpg", tipo: "Cinemas", nombre: "Universal TV", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8" },
-    { inf: "usatv_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/usatv.jpg", tipo: "Cinemas", nombre: "USA TV", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/usatv/master.m3u8" },
-    { inf: "warnerchannel_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/warnerchannel.jpg", tipo: "Cinemas", nombre: "Warner Channel", url: "http://tv.teleclub.xyz/stream/server_1/entretenimiento/warnerchannel/master.m3u8" },
-    { inf: "mtv_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/mtv.jpg", tipo: "Musica", nombre: "mtv", url: "http://tv.teleclub.xyz/stream/server_1/musica/mtv/master.m3u8" },
-    { inf: "telehit_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/telehit.jpg", tipo: "Musica", nombre: "Telehit", url: "http://tv.teleclub.xyz/stream/server_1/musica/telehit/master.m3u8" },
-    { inf: "chespirito_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/chespirito.jpg", tipo: "24x7", nombre: "Chespirito", url: "http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8" },
-    { inf: "dragonballsuper_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/dragonballsuper.jpg", tipo: "24x7", nombre: "Dragon Ball Super", url: "http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8" },
-    { inf: "lossimpsons_1", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/lossimpsons.jpg", tipo: "24x7", nombre: "Los Simpsons", url: "http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8" },
-
+    {
+    "nombre": "Bein Sports Extra Ñ",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/beinsportsn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8"
+  },
+  {
+    "nombre": "Directv Sports",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/directvsports.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8"
+  },
+  {
+    "nombre": "Directv Sports +",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/directvsports.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8"
+  },
+  {
+    "nombre": "Directv Sports 2",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/directvsports2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8"
+  },
+  {
+    "nombre": "ESPN 1",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/espn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8"
+  },
+  {
+    "nombre": "ESPN 2",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/espn2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8"
+  },
+  {
+    "nombre": "ESPN 3",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/espn3.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/espn3/master.m3u8"
+  },
+  {
+    "nombre": "ESPN 4",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/espn4.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/espn4/master.m3u8"
+  },
+  {
+    "nombre": "ESPN 5",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/espn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/espn5/master.m3u8"
+  },
+  {
+    "nombre": "ESPN Premium",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/espnpremium.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 1",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 1 MX",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 2",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 2 MX",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 2 MX",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 3",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports3.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports 3 MX",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsports3.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8"
+  },
+  {
+    "nombre": "Fox Sports Premium MX",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/foxsportspremium.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8"
+  },
+  {
+    "nombre": "Gol Peru",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/golperu.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/golperu/master.m3u8"
+  },
+  {
+    "nombre": "Gol TV",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/goltv.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/goltv/master.m3u8"
+  },
+  {
+    "nombre": "TNT Sports",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/tntsports.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/tntsports/master.m3u8"
+  },
+  {
+    "nombre": "TUDN",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/tudn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8"
+  },
+  {
+    "nombre": "TyC Sports",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/tycsports.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8"
+  },
+  {
+    "nombre": "Win Sports Plus",
+    "tipo": "Deportes",
+    "logo": "https://img.teleclub.xyz/winsportsplus.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8"
+  },
+  {
+    "nombre": "Cartoon Network",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/cartoonnetwork.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8"
+  },
+  {
+    "nombre": "Cartoon Network",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/cartoonnetwork.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/infantil/cartoonnetwork/master.m3u8"
+  },
+  {
+    "nombre": "Cartoonito",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/cartoonito.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8"
+  },
+  {
+    "nombre": "Discovery Kids",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/discoverykids.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8"
+  },
+  {
+    "nombre": "Disney Channel",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/disneychannel.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8"
+  },
+  {
+    "nombre": "Disney Jr",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/disneyjr.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8"
+  },
+  {
+    "nombre": "Energeek Retro",
+    "tipo": "Infantil",
+    "logo": "https://energeek.cl/wp-content/uploads/2024/10/energeekstream.png",
+    "url": "http://tv.teleclub.xyz/stream/server_0/infantil/energeek_retro/master.m3u8"
+  },
+  {
+    "nombre": "Nick",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/nick.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8"
+  },
+  {
+    "nombre": "Tooncast",
+    "tipo": "Infantil",
+    "logo": "https://img.teleclub.xyz/tooncast.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8"
+  },
+  {
+    "nombre": "ATV",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/atvl.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/atv/master.m3u8"
+  },
+  {
+    "nombre": "Azteca 7",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/azteca7.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/azteca7/master.m3u8"
+  },
+  {
+    "nombre": "Azteca Uno",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/azteca1.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/aztecauno/master.m3u8"
+  },
+  {
+    "nombre": "Canal 5",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/canal5.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/canal5/master.m3u8"
+  },
+  {
+    "nombre": "Canal E!",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/canale.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8"
+  },
+  {
+    "nombre": "Caracol TV",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/caracol.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8"
+  },
+  {
+    "nombre": "DW Channel",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/dwchannel.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/dwchannel/master.m3u8"
+  },
+  {
+    "nombre": "Ecuavisa",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/ecuavisa.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/ecuavisa/master.m3u8"
+  },
+  {
+    "nombre": "El Trece",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/trecel.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/eltrece/master.m3u8"
+  },
+  {
+    "nombre": "Galavisión",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/galavson.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/galavision/master.m3u8"
+  },
+  {
+    "nombre": "Imagen TV",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/imagentv.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/imagenmx/master.m3u8"
+  },
+  {
+    "nombre": "Las Estrellas",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/lasestrellas.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/lasestrellas/master.m3u8"
+  },
+  {
+    "nombre": "Latina TV",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/latinatv.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/latina/master.m3u8"
+  },
+  {
+    "nombre": "Pasiones",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/pasiones.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/pasiones/master.m3u8"
+  },
+  {
+    "nombre": "RCN",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/rcn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8"
+  },
+  {
+    "nombre": "RCN",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/rcn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/mundo/rcn/master.m3u8"
+  },
+  {
+    "nombre": "Telefe",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/telefe.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8"
+  },
+  {
+    "nombre": "Telemundo Puerto Rico",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/telemundo.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/telemundopuertorico/master.m3u8"
+  },
+  {
+    "nombre": "TLC",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/tlc.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/tlc/master.m3u8"
+  },
+  {
+    "nombre": "tlnovelas",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/tlnovelas.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/mundo/tlnovelas/master.m3u8"
+  },
+  {
+    "nombre": "tlnovelas",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/tlnovelas.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/tlnovelas/master.m3u8"
+  },
+  {
+    "nombre": "Unicable",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/unicable.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8"
+  },
+  {
+    "nombre": "Univisión",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/univision.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/univision/master.m3u8"
+  },
+  {
+    "nombre": "Willax TV",
+    "tipo": "Mundo",
+    "logo": "https://img.teleclub.xyz/willaxtv.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/mundo/willaxtv/master.m3u8"
+  },
+  {
+    "nombre": "Animal Planet",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/animalplanet.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8"
+  },
+  {
+    "nombre": "Discovery Channel",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/discoverychannel.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8"
+  },
+  {
+    "nombre": "Discovery H&H",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/discoveryhh.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8"
+  },
+  {
+    "nombre": "Discovery Science",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/discoverysci.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryscience/master.m3u8"
+  },
+  {
+    "nombre": "Discovery Theater",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/discoverytheater.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoverytheater/master.m3u8"
+  },
+  {
+    "nombre": "Discovery Turbo",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/discoveryturbo.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryturbo/master.m3u8"
+  },
+  {
+    "nombre": "Discovery World",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/discoveryworld.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8"
+  },
+  {
+    "nombre": "El Gourmet",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/elgourmet.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8"
+  },
+  {
+    "nombre": "H2",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/h2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8"
+  },
+  {
+    "nombre": "History",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/history.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/history/master.m3u8"
+  },
+  {
+    "nombre": "History",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/history.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8"
+  },
+  {
+    "nombre": "ID",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/did.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8"
+  },
+  {
+    "nombre": "National Geographic",
+    "tipo": "Cultura",
+    "logo": "https://img.teleclub.xyz/natgeo.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8"
+  },
+  {
+    "nombre": "A&E",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/ae.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8"
+  },
+  {
+    "nombre": "AMC",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/amc.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8"
+  },
+  {
+    "nombre": "AXN",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/axn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/axn/master.m3u8"
+  },
+  {
+    "nombre": "AXN",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/axn.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8"
+  },
+  {
+    "nombre": "Cinecanal",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/cinecanal.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8"
+  },
+  {
+    "nombre": "Cinecanal",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/cinecanal.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8"
+  },
+  {
+    "nombre": "Cinemax",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/cinemax.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinemax/master.m3u8"
+  },
+  {
+    "nombre": "Cinemax",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/cinemax.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinemax/master.m3u8"
+  },
+  {
+    "nombre": "Comedy Central",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/comedycentral.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/comedycentral/master.m3u8"
+  },
+  {
+    "nombre": "DePelicula",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/depelicula.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8"
+  },
+  {
+    "nombre": "DHE",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/dhe.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/dhe/master.m3u8"
+  },
+  {
+    "nombre": "Distrito Comedia",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/distritocomedia.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/distritocomedia/master.m3u8"
+  },
+  {
+    "nombre": "FX",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/fx.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/fx/master.m3u8"
+  },
+  {
+    "nombre": "FX",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/fx.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/fx/master.m3u8"
+  },
+  {
+    "nombre": "Golden",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/golden.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/golden/master.m3u8"
+  },
+  {
+    "nombre": "Golden",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/golden.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/golden/master.m3u8"
+  },
+  {
+    "nombre": "Golden Edge",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/goldenedge.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8"
+  },
+  {
+    "nombre": "Golden Plus",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/golden.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8"
+  },
+  {
+    "nombre": "Golden Premier",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/golden.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier/master.m3u8"
+  },
+  {
+    "nombre": "Golden Premier",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/golden.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/goldenpremier/master.m3u8"
+  },
+  {
+    "nombre": "Golden Premier 2",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/golden.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier2/master.m3u8"
+  },
+  {
+    "nombre": "HBO",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/hbo.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8"
+  },
+  {
+    "nombre": "HBO 2",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/hbo2.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8"
+  },
+  {
+    "nombre": "HBO Family",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/hbofamily.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8"
+  },
+  {
+    "nombre": "HBO Signature",
+    "tipo": "Entretenimiento",
+    "logo": "",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8"
+  },
+  {
+    "nombre": "HBO Xtreme",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/hboxtreme.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/hboxtreme/master.m3u8"
+  },
+  {
+    "nombre": "Multipremier",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/multipremier.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/multipremier/master.m3u8"
+  },
+  {
+    "nombre": "Paramount Network",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/paramount.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8"
+  },
+  {
+    "nombre": "Sony",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/sony.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/sony/master.m3u8"
+  },
+  {
+    "nombre": "Sony",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/sony.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/sony/master.m3u8"
+  },
+  {
+    "nombre": "Space",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/space.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/space/master.m3u8"
+  },
+  {
+    "nombre": "Space",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/space.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/space/master.m3u8"
+  },
+  {
+    "nombre": "Star Channel",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/star.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8"
+  },
+  {
+    "nombre": "Star Channel",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/star.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/starchannel/master.m3u8"
+  },
+  {
+    "nombre": "Studio Universal",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/studiouniversal.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/studiouniversal/master.m3u8"
+  },
+  {
+    "nombre": "Studio Universasl",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/studiouniversal.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/studiouniversal/master.m3u8"
+  },
+  {
+    "nombre": "TNT",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/tnt.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8"
+  },
+  {
+    "nombre": "TNT Series",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/tntseries.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/tntseries/master.m3u8"
+  },
+  {
+    "nombre": "TNT Series",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/tntseries.png",
+    "url": "http://tv.teleclub.xyz/stream/server_2/entretenimiento/tntseries/master.m3u8"
+  },
+  {
+    "nombre": "Universal Cinema",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/universalcinema.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/universalcinema/master.m3u8"
+  },
+  {
+    "nombre": "Universal Cinema",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/universal_cinema.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8"
+  },
+  {
+    "nombre": "Universal TV",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/universal.png",
+    "url": "http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8"
+  },
+  {
+    "nombre": "Universal TV",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/universal.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8"
+  },
+  {
+    "nombre": "USA TV",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/usatv.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/usatv/master.m3u8"
+  },
+  {
+    "nombre": "Warner Channel",
+    "tipo": "Entretenimiento",
+    "logo": "https://img.teleclub.xyz/warnerchannel.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/entretenimiento/warnerchannel/master.m3u8"
+  },
+  {
+    "nombre": "mtv",
+    "tipo": "Musica",
+    "logo": "https://img.teleclub.xyz/mtv.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/musica/mtv/master.m3u8"
+  },
+  {
+    "nombre": "Telehit",
+    "tipo": "Musica",
+    "logo": "https://img.teleclub.xyz/telehit.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/musica/telehit/master.m3u8"
+  },
+  {
+    "nombre": "Chespirito",
+    "tipo": "24x7",
+    "logo": "https://img.teleclub.xyz/chespirito.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8"
+  },
+  {
+    "nombre": "Dragon Ball Super",
+    "tipo": "24x7",
+    "logo": "https://img.teleclub.xyz/dragonballsuper.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8"
+  },
+  {
+    "nombre": "Los Simpsons",
+    "tipo": "24x7",
+    "logo": "https://img.teleclub.xyz/lossimpsons.png",
+    "url": "http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8"
+  },
     /*----------------------------------------------------------------------------------*/
     /*----------------------------------------------------------------------------------*/
     /*----------------------------------------------------------------------------------*/
