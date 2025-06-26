@@ -6,7 +6,7 @@
 
     { nombre: "Opciones", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Opciones.jpg", url: "Opciones" },
     { nombre: "Nacionales", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg", url: "Nacionales" },
-    { nombre: "Infantiles", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg", url: "Infantil" },
+    { nombre: "Infantil", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg", url: "Infantil" },
     { nombre: "Cultura", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cultura.jpg", url: "Cultura" },
     { nombre: "Mundo", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Mundo.jpg", url: "Mundo" },
     { nombre: "Entretenimiento", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Entretenimiento.jpg", url: "Entretenimiento" },
@@ -979,6 +979,5 @@
     { "nombre": "Secretos de las Profundidades", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/knUERVioeog/hqdefault.jpg", "url": "knUERVioeog.ytb" },
     { "nombre": "ILLUMINATI", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/_pkSnz1zN2M/hqdefault.jpg", "url": "_pkSnz1zN2M.ytb" },
     { "nombre": "AMAZONÍA Secretos de la Selva", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/qvj5eWBdgCA/hqdefault.jpg", "url": "qvj5eWBdgCA.ytb" },
-    { "nombre": "Historia de los Judíos", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/_ReXiLUZ7vk/hqdefault.jpg", "url": "_ReXiLUZ7vk.ytb" }
-    
+    { "nombre": "Historia de los Judíos", "tipo": "YTBDocumental", "logo": "https://i.ytimg.com/vi/_ReXiLUZ7vk/hqdefault.jpg", "url": "_ReXiLUZ7vk.ytb" }   
 ]
