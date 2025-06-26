@@ -13,13 +13,14 @@
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 5" wtv-logo="canal5" wtv-xurl="https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 6" wtv-logo="canal6" wtv-xurl="https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 7" wtv-logo="canal7" wtv-xurl="https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
-#EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 8" wtv-logo="canal8" wtv-xurl="http://201.247.102.189/tmp_hls/stream/index.m3u8"
+#EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 8" wtv-logo="canal8" wtv-xurl="https://5fc584f3f19c9.streamlock.net/agape/videoagape/playlist.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 9" wtv-logo="canal9" wtv-xurl="https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 10" wtv-logo="canal10" wtv-xurl="https://5ca3e84a76d30.streamlock.net:443/tves/videotves/playlist.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 11" wtv-logo="canal11" wtv-xurl="https://stream.giostreaming.net:19360/canal11/canal11.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 12" wtv-logo="canal12" wtv-xurl="https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 19" wtv-logo="canal19" wtv-xurl="https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
 #EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 21" wtv-logo="canal21" wtv-xurl="https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
+#EXTINF:-1 wtv-tipo="nacionales" wtv-name="Canal 22" wtv-logo="canal22" wtv-xurl="http://201.247.102.189/tmp_hls/stream/index.m3u8"
 
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
