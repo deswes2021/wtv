@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTOPCIONES
+#EXTINF:-1 tvg-id="actualizar" tvg-logo="actualizar" group-title="opciones", actualizar
+/actualizar
+#EXTINF:-1 tvg-id="activar" tvg-logo="activar" group-title="opciones", activar
+https://tv.teleclub.xyz/activar
+#EXTINF:-1 tvg-id="activar" tvg-logo="killkche" group-title="opciones", killkche
+/killkche
+
 #EXTNACIONAL
 #EXTINF: group-title="nacional" tvg-logo="canal1", canal1
 000000000
@@ -51,8 +59,10 @@
 00000000000
 
 #EXTMUSICA-PERSONAL
-#EXTINF:-1 tvg-id="activar" tvg-logo="activar" group-title="opciones", activar
-https://tv.teleclub.xyz/activar
+#EXTINF: group-title="musica" tvg-logo="00000000000", 00000000000
+00000000000
+
+#EXTTELECLUB-ONLINE
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 #EXTINF:-1 tvg-id="directvsports_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
@@ -293,7 +303,4 @@ http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8
 #EXTINF:-1 tvg-id="lossimpsons_1" tvg-logo="https://img.teleclub.xyz/lossimpsons.png" group-title="24x7", Los Simpsons
 http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
-#EXTINF: group-title="musica" tvg-logo="00000000000", 00000000000
-00000000000
 
-#EXTTELECLUB-ONLINE
