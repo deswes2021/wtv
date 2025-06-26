@@ -25,7 +25,6 @@
     { nombre: "YTBComedy", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBComedy.jpg", url: "YTBComedy" },
     { nombre: "YTBDrama", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBDrama.jpg", url: "YTBDrama" },
     { nombre: "YTBMusical", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBMusical.jpg", url: "YTBMusical" },
-    { nombre: "Series", tipo: "Menu", logo: "https://raw.githubusercontent.com/deswes2021/wtv/main/img/Series.jpg", url: "Series" },
 
     /*----------------------------------------------------------------------------------*/
     /*-OPCIONES-*/
