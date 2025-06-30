@@ -38,29 +38,27 @@ https://tv.teleclub.xyz/activar
 #EXTINF: group-title="nacional" tvg-logo="canal21", canal21
 000000000
 
+
+
 #EXTINFANTIL-PERSONAL
-#EXTINF: group-title="Infantil" tvg-logo="00000000000", 00000000000
-00000000000
+#EXTINF: group-title="Infantil" tvg-logo="infantil", infantil
 
 #EXTMUNDO-PERSONAL
-#EXTINF: group-title="Mundo" tvg-logo="00000000000", 00000000000
-00000000000
+#EXTINF: group-title="Mundo" tvg-logo="mundo", mundo
 
 #EXTCULTURA-PERSONAL
-#EXTINF: group-title="Cultura" tvg-logo="00000000000", 00000000000
-00000000000
+#EXTINF: group-title="Cultura" tvg-logo="cultura", cultura
 
 #EXTENTRETENIMIENTO-PERSONAL
-#EXTINF: group-title="Entretenimiento" tvg-logo="00000000000", 00000000000
-00000000000
+#EXTINF: group-title="Entretenimiento" tvg-logo="entretenimiento", entretenimiento
 
 #EXTDEPORTES-PERSONAL
-#EXTINF: group-title="Deportes" tvg-logo="00000000000", 00000000000
-00000000000
+#EXTINF: group-title="Deportes" tvg-logo="deportes", deportes
 
 #EXTMUSICA-PERSONAL
-#EXTINF: group-title="Musica" tvg-logo="00000000000", 00000000000
-00000000000
+#EXTINF: group-title="Musica" tvg-logo="musica", musica
+
+
 
 #EXTTELECLUB-ONLINE
 #EXTINF:-1 tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
