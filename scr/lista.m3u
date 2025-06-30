@@ -39,27 +39,27 @@ https://tv.teleclub.xyz/activar
 000000000
 
 #EXTINFANTIL-PERSONAL
-#EXTINF: group-title="infantil" tvg-logo="00000000000", 00000000000
+#EXTINF: group-title="Infantil" tvg-logo="00000000000", 00000000000
 00000000000
 
 #EXTMUNDO-PERSONAL
-#EXTINF: group-title="mundo" tvg-logo="00000000000", 00000000000
+#EXTINF: group-title="Mundo" tvg-logo="00000000000", 00000000000
 00000000000
 
 #EXTCULTURA-PERSONAL
-#EXTINF: group-title="cultura" tvg-logo="00000000000", 00000000000
+#EXTINF: group-title="Cultura" tvg-logo="00000000000", 00000000000
 00000000000
 
 #EXTENTRETENIMIENTO-PERSONAL
-#EXTINF: group-title="entretenimiento" tvg-logo="00000000000", 00000000000
+#EXTINF: group-title="Entretenimiento" tvg-logo="00000000000", 00000000000
 00000000000
 
 #EXTDEPORTES-PERSONAL
-#EXTINF: group-title="deportes" tvg-logo="00000000000", 00000000000
+#EXTINF: group-title="Deportes" tvg-logo="00000000000", 00000000000
 00000000000
 
 #EXTMUSICA-PERSONAL
-#EXTINF: group-title="musica" tvg-logo="00000000000", 00000000000
+#EXTINF: group-title="Musica" tvg-logo="00000000000", 00000000000
 00000000000
 
 #EXTTELECLUB-ONLINE
@@ -303,4 +303,3 @@ http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8
 #EXTINF:-1 tvg-id="lossimpsons_1" tvg-logo="https://img.teleclub.xyz/lossimpsons.png" group-title="24x7", Los Simpsons
 http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
-
